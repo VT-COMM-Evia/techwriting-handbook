@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_m1y_rkw_rw">
+  <title>Contacts and Roles</title>
+  <shortdesc>This table provides a list of contacts and their roles relevant to teaching this
+    course.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 1.0*" id="simpletable_vzz_dlw_rw">
+      <sthead>
+        <stentry>Title</stentry>
+        <stentry>Contact</stentry>
+      </sthead>
+      <strow>
+        <stentry>Department of English Chair</stentry>
+        <stentry>Dr. Bernice Hausman<p>(540) 231-8466</p><p>bhausman@vt.edu</p></stentry>
+      </strow>
+      <strow>
+        <stentry>
+          <p id="roleDirectorPTW">Director of Professional and Technical Writing</p>
+        </stentry>
+        <stentry>Dr. Carlos Evia<p>(540) 200-8201</p><p>cevia@vt.edu</p></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

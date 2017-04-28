@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_blj_vsx_rw">
+  <title>Summer Session</title>
+  <shortdesc>The summer session quick reference is based on a 6-week schedule, with lessons (15
+    total) posted multiple times per week.</shortdesc>
+  <refbody>
+    <section id="section_pf2_dfq_1y">
+      <p>Using the Monday, Wednesday, and Friday model works well during <xref
+          href="../schedules/summer_session.dita#concept_r31_pjk_sw">summer sessions</xref> because
+        it allows for skipping a lesson on <xref
+          href="../schedules/holidays.dita#concept_xx2_llk_sw">summer holidays</xref> such as
+        Memorial Day without risking falling behind in the class. It also allows for posting only
+        two lessons the first week as students get settled.</p>
+      <p>
+        <note>The reading and quiz assignments in the example quick reference below are based on the
+            <xref href="../coursecomponents/books_refs.dita#concept_ic3_kyp_rw">textbook</xref>
+          <cite>Practical Strategies for Technical Communication</cite> by Mike Markel. Also, two
+          weekdays are deliberately excluded from this example to represent a 2-lesson first week
+          and a Monday university closure for Memorial Day.</note>
+      </p>
+    </section>
+    <simpletable frame="all" id="simpletable_m4q_1nw_rw">
+      <sthead>
+        <stentry>Lesson</stentry>
+        <stentry>Day</stentry>
+        <stentry>Lesson Topics</stentry>
+        <stentry>Reading/Quiz/Test Due</stentry>
+        <stentry>Exercise Due</stentry>
+        <stentry>Paper/Project Work Due</stentry>
+      </sthead>
+      <strow>
+        <stentry>1</stentry>
+        <stentry>Mon<p>5/23</p></stentry>
+        <stentry>
+          <ul id="ul_vn4_55w_rw">
+            <li>Introduction</li>
+            <li>Writing in the workplace</li>
+            <li>Correspondence</li>
+            <li>Start grammar and punctuation review</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_ljv_fxw_rw">
+            <li>Ch 1: Introduction to Technical Communication</li>
+            <li>Readings on writing in the workplace from Canvas (no quiz)</li>
+            <li>Ch 9: Writing Correspondence</li>
+            <li>Appendix B: Editing and Proofreading Your Documents (no quiz)</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry>2</stentry>
+        <stentry>Fri<p>5/27</p></stentry>
+        <stentry>
+          <ul id="ul_mlp_w5w_rw">
+            <li>Writing style</li>
+            <li>Definitions and descriptions</li>
+            <li>Reviews and copyedits</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_qjd_jxw_rw">
+            <li>Ch 6: Writing for Your Readers</li>
+            <li>Ch 14: Writing Definitions, Descriptions, and Instructions (pp. 358–374)</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_xyr_nyw_rw">
+            <li>Memo with self-introduction</li>
+            <li>Business “claim” letter</li>
+          </ul>
+        </stentry>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry>3</stentry>
+        <stentry>Wed<p>6/1</p></stentry>
+        <stentry>
+          <ul id="ul_lrg_1vw_rw">
+            <li>Workshop: Description document</li>
+            <li>Ethics and legal considerations</li>
+            <li>Finish grammar and punctuation review</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_ofl_kxw_rw">
+            <li>Ch 2: Understanding Ethical and Legal Considerations</li>
+            <li>Appendix A: Documenting Your Sources (no quiz)</li>
+            <li>Last chance: All readings and quizzes to date</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_kmy_nyw_rw">
+            <li>Extended definition (group)</li>
+            <li>Punctuation and grammar worksheet</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_ckk_yyw_rw">
+            <li>Paper 1: Workshop draft of description document</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>4</stentry>
+        <stentry>Fri<p>6/3</p></stentry>
+        <stentry>
+          <ul id="ul_w3w_hvw_rw">
+            <li>Graphical aids</li>
+            <li>Instructions and safety information</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_ocm_mxw_rw">
+            <li>Grammar tests (1 and 2)</li>
+            <li>Ch 8: Creating Graphics</li>
+            <li>Ch: 14 Writing Definitions, Descriptions, and Instructions (pp. 375–386)</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry>
+          <ul id="ul_lnb_zyw_rw">
+            <li>Paper 1: Feedback from description document workshop</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>5</stentry>
+        <stentry>Mon<p>6/6</p></stentry>
+        <stentry>
+          <ul id="ul_dsv_3vw_rw">
+            <li>Page layout and visual design</li>
+            <li>Recommendation reports</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_i4w_4xw_rw">
+            <li>Ch 7: Designing Documents and Web Sites</li>
+            <li>Ch 13: Writing Recommendation Reports</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_rd5_qyw_rw">
+            <li>Instructions</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_kgj_czw_rw">
+            <li>Paper 1: Final draft of description document</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>6</stentry>
+        <stentry>Wed<p>6/8</p></stentry>
+        <stentry>
+          <ul id="ul_l54_jvw_rw">
+            <li>Workshop: Instruction set</li>
+            <li>Proposals</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_gfp_pxw_rw">
+            <li>Ch 11: Writing Proposals</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry>
+          <ul id="ul_xb2_2zw_rw">
+            <li>Paper 2: Workshop draft of instruction set</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>7</stentry>
+        <stentry>Fri<p>6/10</p></stentry>
+        <stentry>
+          <ul id="ul_w5q_kvw_rw">
+            <li>Collaboration and social media</li>
+            <li>Meet your workgroup</li>
+            <li>Project 1 group brainstorm</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_y2g_qxw_rw">
+            <li>Ch 3: Writing Collaboratively and Using Social Media</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_xv1_ryw_rw">
+            <li>Proposal summary</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_hvh_2zw_rw">
+            <li>Paper 2: Feedback from instruction set workshop</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>8</stentry>
+        <stentry>Mon<p>6/13</p></stentry>
+        <stentry>
+          <ul id="ul_fcz_lvw_rw">
+            <li>Project 1 group decision</li>
+            <li>Audience and purpose</li>
+            <li>Research</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_mst_qxw_rw">
+            <li>Ch 4: Analyzing Your Audience and Purpose</li>
+            <li>Ch 5: Researching Your Subject</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_izz_tyw_rw">
+            <li>Letter of project 1 understanding (group)</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_bgm_2zw_rw">
+            <li>Paper 2: Final draft of instruction set</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>9</stentry>
+        <stentry>Wed<p>6/15</p></stentry>
+        <stentry>
+          <ul id="ul_o4v_tww_rw">
+            <li>Online content</li>
+            <li>Project 1 group work</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_fqx_sxw_rw">
+            <li>Online content tutorials from Canvas (no quiz)</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_jf2_5yw_rw">
+            <li>Audience assessment (group)</li>
+            <li>Research sources (group)</li>
+          </ul>
+        </stentry>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry>10</stentry>
+        <stentry>Fri<p>6/17</p></stentry>
+        <stentry>
+          <ul id="ul_wnw_5ww_rw">
+            <li>Job-application materials</li>
+            <li>Project 1 group work</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_ljz_txw_rw">
+            <li>Ch 10: Writing Job‐Application Materials</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry>11</stentry>
+        <stentry>Mon<p>6/20</p></stentry>
+        <stentry>
+          <ul id="ul_ktt_www_rw">
+            <li>White papers</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_uwc_vxw_rw">
+            <li>White paper readings from Canvas (no quiz)</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry>
+          <ul id="ul_plr_3zw_rw">
+            <li>Project 1 (group): Final draft of formal report (no workshop)</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>12</stentry>
+        <stentry>Wed<p>6/22</p></stentry>
+        <stentry>
+          <ul id="ul_gfn_xww_rw">
+            <li>Making oral presentations</li>
+            <li>Localization and translation</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_amz_vxw_rw">
+            <li>Ch 15: Making Oral Presentations (no quiz)</li>
+            <li>Localization and translation readings from Canvas (no quiz)</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_knh_wyw_rw">
+            <li>Letter of Project 2 understanding</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_i1y_3zw_rw">
+            <li>Paper 3: Final draft of job-application cover letter (no workshop)</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>13</stentry>
+        <stentry>Fri<p>6/24</p></stentry>
+        <stentry>
+          <ul id="ul_qyn_zww_rw">
+            <li>Workshop: White paper</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry/>
+        <stentry>
+          <ul id="ul_ckm_jzw_rw">
+            <li>Project 2: Workshop draft of white paper</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>14</stentry>
+        <stentry>Mon<p>6/27</p></stentry>
+        <stentry>
+          <ul id="ul_id2_1xw_rw">
+            <li>Informational reports</li>
+          </ul>
+        </stentry>
+        <stentry>
+          <ul id="ul_q11_xxw_rw">
+            <li>Ch 12: Writing Informational Reports</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry>
+          <ul id="ul_dj1_kzw_rw">
+            <li>Project 2: Feedback from white paper workshop</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>15</stentry>
+        <stentry>Wed<p>6/29</p></stentry>
+        <stentry>
+          <ul id="ul_edg_bxw_rw">
+            <li>Wrap-up</li>
+            <li>Presentation submission</li>
+          </ul>
+        </stentry>
+        <stentry/>
+        <stentry/>
+        <stentry>
+          <ul id="ul_vrn_kzw_rw">
+            <li>Project 2: Final draft of white paper and presentation</li>
+          </ul>
+        </stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

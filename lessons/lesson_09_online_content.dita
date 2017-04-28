@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_tdv_5hh_1y">
+  <title>Lesson 9 : Online Content</title>
+  <shortdesc>Lesson 9 teaches concepts of online content such as HTML, CSS, and XML and allows
+    students time to work in project groups toward their formal report project.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_dd5_c3h_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_m3g_hm2_sz">
+            <li>Review the technologies for writing and delivering content online.</li>
+            <li>Examine the design of technical documents through online media.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Online content articles and/or tutorials:</b> Material you believe to be
+          appropriate for learning about online content concepts such as HTML, CSS, and XML<note
+            type="tip">Many related tutorials are available at <xref
+              href="http://www.olcs.lt.vt.edu/lynda/" format="html" scope="external"
+              >Lynda.com</xref> (available to Virginia Tech faculty and students for
+          free).</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>Online content:</b> Concepts on the technology and design of online content such
+          as HTML, CSS, and XML<p><b>Group project work:</b> Allocated time for project groups to
+            work on their <xref href="../assignments/project_formal_report.dita#concept_fjg_crp_fx"
+              >formal report</xref> (proposal and/or a recommendation report)</p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

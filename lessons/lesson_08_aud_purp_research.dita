@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_kdq_y1h_1y">
+  <title>Lesson 8: Audience, Purpose, and Research</title>
+  <shortdesc>Lesson 7 teaches audience, purpose, and research and has project groups perform an
+    audience assessment and brainstorm research resources for their formal report group
+    project.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_m1x_lbh_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_cjw_1m2_sz">
+            <li>Assess audiences for technical documents.</li>
+            <li>Discuss how primary, secondary, and tertiary audiences use documents.</li>
+            <li>Use primary and secondary resources to research content for technical
+              documents.</li>
+            <li>Work with project groups to write content for formal reports.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Chapter 4:</b> Analyzing Your Audience and Purpose<p><b>Chapter 5:</b> Researching Your Subject</p></stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>Audience and purpose:</b> Assessing audiences for technical documents and
+          understanding how primary, secondary, and tertiary audiences use
+              documents<p><b>Research:</b> Using primary and secondary resources to research content
+            for technical documents</p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref href="../exercises/exercise_audience_assessment.dita#concept_ry5_3fz_bx">Audience
+            assessment (group)</xref><p><b>Due next lesson:</b>
+            <xref href="../exercises/exercise_research_sources.dita#concept_gvm_khz_bx">Research
+              sources (group)</xref></p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

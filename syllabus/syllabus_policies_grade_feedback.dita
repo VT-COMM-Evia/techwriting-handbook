@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_w1x_cx3_1y">
+ <title>Grading and Feedback</title>
+ <shortdesc>The syllabus should provide a rubric or a set of guidelines that otherwise explain the
+    criteria for grading assignments.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies on grading and feedback could be included as a subsection
+   to the <xref href="syllabus_policies_assignments.dita#concept_vx4_qk4_1y">assignments
+    subsection</xref> (in the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies
+    section</xref>) and includes:<ul id="ul_ofq_qd4_1y">
+    <li>A summary that highlights the primary characteristics you are looking for in students'
+     writing</li>
+    <li>How you will return grades and feedback for assignments</li>
+    <li>A rubric or grading guidelines that explain properties that yield specific grades</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Grading and Feedback</b></p>
+   <p>As you will discover in this course, no formula exists that can be applied to a technical
+    document to determine its quality. For example, a technical document could have useful and
+    accurate content, but it would be all for naught if the document were riddled with numerous
+    grammatical errors and typos that made it too distracting to read. Therefore, grades for papers
+    and projects are based on the total overall reading experience, considering the following
+    factors (in no specific order):</p>
+   <ul id="ul_h2s_xx4_1y">
+    <li>Substance and conventions of the genre based on class lessons and textbook readings</li>
+    <li>Required content as specified in the assignment description</li>
+    <li>Grammar, spelling, and typographical errors</li>
+    <li>Quality of writing and appropriate use of lists, tables, and other content structures</li>
+    <li>Appropriateness to the document’s applicable audience</li>
+    <li>Information design and flow of prose/exposition, including use of headings and
+     subheadings</li>
+    <li>Professional tone</li>
+    <li>Page and graphic design, images, and other graphical aids</li>
+   </ul>
+   <p>Just as you submit projects and papers electronically, I will return grades, corrections, and
+    notes on them electronically unless I specify otherwise in class.</p>
+   <p><u>Grading Guidelines</u></p>
+   <p>The following grading guidelines can help you understand the qualitative properties of
+    documents against their corresponding grade range:<simpletable frame="all"
+     relcolwidth="1.0* 5.9*" id="simpletable_asv_2y4_1y">
+     <sthead>
+      <stentry>Grade Range</stentry>
+      <stentry>Document Properties</stentry>
+     </sthead>
+     <strow>
+      <stentry>A (90-100)</stentry>
+      <stentry><p>The document is <b>great to outstanding</b>, given the following
+        properties:</p><ul id="ul_lyh_jy4_1y">
+        <li>As a whole, the document demonstrates your creativity and mastery of the objectives and
+         material, and it meets or exceeds the assignment requirements.</li>
+        <li>Tone, content, design, and organization are consistent and ideally suited for the
+         audience and purpose.</li>
+        <li>There are no typographical errors, such as (but not limited to) missing words, repeating
+         words, obvious spelling errors and transpositions, and obviously missed punctuation (for
+         example, no period at the end of a sentence).</li>
+        <li>There are minimal errors in grammar, mechanics, or formatting.</li>
+        <li>To be outstanding (an <b>A+</b> as opposed to an <b>A</b> or <b>A-</b>), the document
+         must be completely error free.</li>
+       </ul> In a professional work environment, your supervisor would feel confident sending out
+       the document as is.</stentry>
+     </strow>
+     <strow>
+      <stentry>B (80-89)</stentry>
+      <stentry><p>The document is <b>good to very good</b>, given the following properties:</p><ul
+        id="ul_btw_jy4_1y">
+        <li>As a whole, the document demonstrates your understanding of the objectives and material
+         as well as your ability to use templates and patterns effectively. It meets the assignment
+         requirements.</li>
+        <li>Tone, content, design, and organization are appropriate for the audience and purpose.
+         There may be a minor and easily correctable error or inconsistency.</li>
+        <li>There may be a few minor and easily correctable typographical errors or errors in
+         grammar, mechanics, or formatting.</li>
+       </ul> In a professional work environment, your supervisor would ask you to make a few changes
+       before you send out the document.</stentry>
+     </strow>
+     <strow>
+      <stentry>C (70-79)</stentry>
+      <stentry><p>The document is <b>fair to adequate</b>, given the following properties:</p><ul
+        id="ul_tx3_ky4_1y">
+        <li>As a whole, the document indicates that you understand some, but not all, of the
+         objectives and material. It meets most of the assignment requirements.</li>
+        <li>Most, but not all, elements of tone, content, design, and organization are appropriate
+         for the audience and purpose. There might be inconsistencies that undermine the cohesion of
+         the document.</li>
+        <li>Typographical errors or errors in grammar, mechanics, or formatting are distracting and
+         unprofessional, but they do not render the document unreadable.</li>
+       </ul> In a professional work environment, your supervisor would want to review your changes
+       before sending out the document.</stentry>
+     </strow>
+     <strow>
+      <stentry>D (60-69)</stentry>
+      <stentry><p>The document is <b>poor</b>, given any of the following properties:</p><ul
+        id="ul_xx5_ky4_1y">
+        <li>The document does not reflect your understanding of the objectives or material. It meets
+         only some of the assignment requirements.</li>
+        <li>There is at least one major flaw in tone, content, design, or organization that makes
+         the document ineffective as a whole.</li>
+        <li>There is one or more major or critical typographical error or error in grammar,
+         mechanics, or formatting.</li>
+       </ul> In a professional work environment, your supervisor would question your ability to work
+       on this project.</stentry>
+     </strow>
+     <strow>
+      <stentry>F (0)</stentry>
+      <stentry><p>The document is <b>unacceptable</b>, given any of the following properties:</p><ul
+        id="ul_ok3_ly4_1y">
+        <li>The document does not reflect your understanding of the objectives or material, and it
+         does not meet the assignment requirements.</li>
+        <li>The document does not demonstrate your ability to write adequate and original
+         content.</li>
+        <li>The tone, content, design, and/or organization are inappropriate for the audience and
+         purpose.</li>
+        <li>Typographical errors or errors in grammar, mechanics, or formatting affect the reader’s
+         ability to understand the document.</li>
+       </ul> In a professional work environment, your supervisor would question your ability to do
+       your job.</stentry>
+     </strow>
+    </simpletable></p>
+  </example>
+ </conbody>
+</concept>

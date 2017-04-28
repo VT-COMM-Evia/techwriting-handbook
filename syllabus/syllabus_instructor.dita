@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_edc_dcl_sw">
+ <title>Instructor Information</title>
+ <shortdesc>Students need instructor information to know who the instructor is and how to reach
+  them.</shortdesc>
+ <conbody>
+  <p>The relevant instructor information includes:<ul id="ul_v22_bbl_sw">
+    <li>Instructor name</li>
+    <li>Office location and contact information</li>
+    <li>Office hours (which you can facilitate through a <xref
+      href="../resources/chat.dita#concept_tmn_1yp_rw">chat tool</xref> such as Skype)</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Instructor Information</b></p>
+   <p><b>Instructor:</b> John Doe</p>
+   <p><b>Office:</b> 323 Shanks Hall</p>
+   <p><b>Office Hours:</b> Tue 1:00 PM–3:00 PM via Skype (handle: <i>john-doe</i>)</p>
+   <p><b>Email:</b> john-doe@vt.edu (preferred method of contact)</p>
+   <p><b>Phone:</b> (540) 123-1000</p>
+  </example>
+ </conbody>
+</concept>

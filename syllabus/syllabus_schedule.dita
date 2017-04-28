@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_scv_hm4_1y">
+ <title>Schedule</title>
+ <shortdesc>The syllabus should include a comprehensive schedule that explains the date and topics
+  for each lesson.</shortdesc>
+ <conbody>
+  <p>
+   <note>You should also consider using a <xref
+     href="../quickrefs/quick_refs.dita#concept_umd_y1q_rw">quick reference schedule</xref> as a
+    separate reference document for students in addition to the comprehensive schedule you include
+    in your syllabus.</note>
+  </p>
+  <p>The relevant information for the schedule includes:<ul id="ul_drb_z43_1y">
+    <li>A general explanation on how the schedule works</li>
+    <li>A breakdown of the dates and topics for each lesson in the course</li>
+   </ul></p>
+  <example><title>Example</title><p><b>Schedule</b></p><p>The schedule in this section highlights
+    the preparation, readings, quizzes/tests, topics, and work due for each class lesson of the
+    semester. You can also keep an eye on upcoming project, paper, and test deadlines by referring
+    to the <xref href="syllabus_deadlines.dita#concept_rk3_g4b_hx">Writing Assignment
+     Deadlines</xref> section. Exercises are considered part of the classwork and are thus not
+    listed here as deadlines.</p> So that class lessons are meaningful, and so that you will have
+   thoughts or questions to contribute, you must complete the corresponding preparation, readings,
+   and quizzes <b>before</b> the class. These items are listed under <b>Due</b> for the
+   corresponding class. Always look at due items well in advance of the lesson to give yourself
+   adequate time to prepare and take quizzes prior to that lesson.</example>
+ </conbody>
+</concept>

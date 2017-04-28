@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_oqy_5xp_rw">
+ <title>Learning Management System</title>
+ <shortdesc>Virginia Tech uses and supports Canvas as its learning management system
+  (LMS).</shortdesc>
+ <conbody>
+  <p>While traditional face-to-face classes also use an LMS to support class activities, an LMS is
+   critical to the success of a virtual class. Without a well-structured and organized LMS, students
+   would have a difficult time conducting studies and performing the required tasks for the course.
+   The LMS functions as the repository and central access point for all of the <xref
+    href="../coursecomponents/course_components.dita#concept_j2p_2yp_rw">course components</xref>.
+   Students use the LMS to access all of the <xref
+    href="../lessons/lesson_descriptions.dita#concept_wk5_lkc_bx">lessons</xref> and <xref
+    href="../assignments/assignment_descriptions.dita#concept_rfl_wzp_rw">assignments</xref> that
+   comprise the entire course.</p>
+  <p>All instructors have an account in Canvas, which is Virginia Tech's supported LMS (<xref
+    href="../about/contacts_roles.dita#reference_m1y_rkw_rw">contact</xref> the Director of
+   Professional and Technical Writing if you do not have an account). You can access Canvas at <xref
+    href="https://canvas.vt.edu/" format="html" scope="external">https://canvas.vt.edu/</xref>. </p>
+  <p>Canvas automatically adds classes (called "courses" in Canvas) for the registered instructor to
+   edit and publish. This initial course setup includes all of the students registered in the class
+   roster. It is up to you to further develop the course and then publish it for students to access.
+   Once you have a course set up in Canvas, you can re-use it for future classes.</p>
+  <p>The Networked Learning Initiatives (NLI) at Virginia Tech offers classes on Canvas to help any
+   instructor who is not familiar with the platform. You can view and register for these NLI classes
+   at <xref href="https://app.nli.tlos.vt.edu/" format="html" scope="external"
+    >https://app.nli.tlos.vt.edu/</xref>.</p>
+ </conbody>
+</concept>

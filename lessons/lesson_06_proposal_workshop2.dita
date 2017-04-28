@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_x1j_y3l_nx">
+  <title>Lesson 6: Proposals and Instructions Workshop</title>
+  <shortdesc>Lesson 6 teaches proposals and has students work with their assigned team on the
+    instruction set workshop.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_gc5_bjl_nx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_h1c_532_sz">
+            <li>Employ concepts and structure of proposals.</li>
+            <li>Analyze written work from assigned teammates' instruction set assignments.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Chapter 7:</b> Writing Proposals</stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><p><b>Proposals:</b> Researching and writing proposals, including the structure of
+            standard proposals and proposals based on a request for proposal (RFP)</p><b><xref
+              href="../assignments/workshop_instructions.dita#concept_mcp_tlq_fx">Instruction set
+              workshop</xref>:</b> Students review and edit their assigned teammates' <xref
+            href="../assignments/paper_instructions.dita#concept_wym_pc1_fx">instruction set
+            assignments</xref> (requires that you first assign students into workshop
+            groups)<note>Because of the winter session's accelerated schedule, you should delay this
+            workshop one lesson during the winter session, giving students one additional day to
+            work on their papers.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref href="../exercises/exercise_proposal_summary.dita#concept_upf_vgs_bx">Proposal
+            summary</xref><p><b>Due in 2 lessons:</b>
+            <xref
+              href="../exercises/exercise_letter_project_understanding_report.dita#concept_znd_3qs_bx"
+              >Letter of understanding for formal report (group)</xref><note>The letter of
+              understanding is the same exercise specified in <xref
+                href="lesson_07_rec_rpt.dita#reference_am1_v2m_nx">Lesson 7</xref>. If you give
+              students the option to select either report type (proposal or recommendation report),
+              you should wait until Lesson 7 to assign it.</note></p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 5 lessons:</b> Final draft of group project to research and write a <xref
+            href="../assignments/project_formal_report.dita#concept_fjg_crp_fx">formal report</xref>
+          (proposal and/or a recommendation report)<note>This is the same assignment specified in
+              <xref href="lesson_07_rec_rpt.dita#reference_am1_v2m_nx">Lesson 7</xref>. If you give
+            students the option to select either report type (proposal or recommendation report),
+            you should wait until Lesson 7 to assign it.</note></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

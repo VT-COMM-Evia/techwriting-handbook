@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rk3_g4b_hx">
+ <title>Writing Assignment Deadlines</title>
+ <shortdesc>Although instructors likely have deadlines posted in a semester calendar, it is useful
+  for students to see deadlines as they apply to their graded papers and projects.</shortdesc>
+ <conbody>
+  <p>The relevant information for deadlines depends on the specific assignments you have in your
+   class but should generally include:<ul id="ul_v22_bbl_sw">
+    <li>The assignment name</li>
+    <li>The date and time each draft of the assignment is due</li>
+    <li>A reminder that the dates are for graded assignment deadlines only and that there are also
+     other deadlines for other assignments such as reading, quizzes, and tests</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Writing Assignment Deadlines</b></p>
+   <p>The following table provides a chronological listing of when writing assignments for projects,
+    papers, and presentations are due:</p>
+   <p>
+    <table frame="all" rowsep="1" colsep="1" id="table_hpb_5pb_hx">
+     <tgroup cols="3">
+      <colspec colname="c1" colnum="1" colwidth="1.09*"/>
+      <colspec colname="c2" colnum="2" colwidth="1.16*"/>
+      <colspec colname="c3" colnum="3" colwidth="1*"/>
+      <thead>
+       <row>
+        <entry>Assignment</entry>
+        <entry>Deadline (Eastern Time Zone)</entry>
+        <entry>Draft</entry>
+       </row>
+      </thead>
+      <tbody>
+       <row>
+        <entry morerows="2"><b>Paper 1:</b> Description Document</entry>
+        <entry>Wednesday <b>6/1/16</b> at <b>2:00 PM</b></entry>
+        <entry>Workshop</entry>
+       </row>
+       <row>
+        <entry>Friday <b>6/3/16</b> at <b>2:00 PM</b></entry>
+        <entry>Return Workshop Reviews</entry>
+       </row>
+       <row>
+        <entry>Monday <b>6/6/16</b> at <b>2:00 PM</b></entry>
+        <entry>Final</entry>
+       </row>
+       <row>
+        <entry morerows="2"><b>Paper 2:</b> Instruction Set</entry>
+        <entry>Wednesday <b>6/8/16</b> at <b>2:00 PM</b></entry>
+        <entry>Workshop</entry>
+       </row>
+       <row>
+        <entry>Friday <b>6/10/16</b> at <b>2:00 PM</b></entry>
+        <entry>Return Workshop Reviews</entry>
+       </row>
+       <row>
+        <entry>Monday <b>6/13/16</b> at <b>2:00 PM</b></entry>
+        <entry>Final</entry>
+       </row>
+       <row>
+        <entry><b>Project 1:</b> Formal Report (Group)</entry>
+        <entry>Monday <b>6/20/16</b> at <b>2:00 PM</b></entry>
+        <entry>Final (No Workshop)</entry>
+       </row>
+       <row>
+        <entry><b>Paper 3:</b> Cover Letter</entry>
+        <entry>Wednesday <b>6/22/16</b> at <b>2:00 PM</b></entry>
+        <entry>Final (No Workshop)</entry>
+       </row>
+       <row>
+        <entry morerows="2"><b>Project 2:</b> White Paper</entry>
+        <entry>Friday <b>6/24/16</b> at <b>2:00 PM</b></entry>
+        <entry>Workshop</entry>
+       </row>
+       <row>
+        <entry>Monday <b>6/27/16</b> at <b>2:00 PM</b></entry>
+        <entry>Return Workshop Reviews</entry>
+       </row>
+       <row>
+        <entry>Thursday <b>6/30/16</b> at <b>2:00 PM</b></entry>
+        <entry>Final</entry>
+       </row>
+       <row>
+        <entry><b>Oral Presentation</b></entry>
+        <entry>Thursday <b>6/30/16</b> at <b>2:00 PM</b></entry>
+        <entry>Final</entry>
+       </row>
+      </tbody>
+     </tgroup>
+    </table>
+   </p>
+   <p>This table does <b>not</b> include the deadlines for all work that you must complete.
+    Deadlines for reading assignments, quizzes, and tests are listed in the Schedule section. All
+    deadlines are also available in Canvas.</p>
+  </example>
+ </conbody>
+</concept>

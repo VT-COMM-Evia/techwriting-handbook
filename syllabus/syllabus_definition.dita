@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fbn_p1l_sw">
+ <title>Definition</title>
+ <shortdesc>The syllabus should begin with a brief definition of the course and the specific section
+  so students can quickly identify the document and corresponding class.</shortdesc>
+ <conbody>
+  <p>The relevant information for the definition includes:<ul id="ul_v22_bbl_sw">
+    <li>Document title</li>
+    <li>Purpose</li>
+    <li>Semester</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>ENGL 3764: Technical Writing Syllabus</b></p>
+   <p>This document contains the complete <b>ENGL 3764: Technical Writing</b> (virtual campus)
+    syllabus for the <b>Spring 2016</b> semester.</p>
+  </example>
+ </conbody>
+</concept>

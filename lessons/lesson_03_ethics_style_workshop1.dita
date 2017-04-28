@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_bjb_ytk_kx">
+  <title>Lesson 3: Ethics, Style, and Description Workshop</title>
+  <shortdesc>Lesson 3 teaches ethics, legal considerations, and writing style and has students work
+    with their assigned team on the description document workshop.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_gvn_l5k_kx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_bdq_132_sz">
+            <li>Discuss ethics and legal considerations related to technical writing.</li>
+            <li>Examine writing styles as they relate to technical documents.</li>
+            <li>Analyze written work from assigned teammates' description document assignments.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>
+          <p><b>Chapter 2:</b> Understanding Ethical and Legal Considerations</p>
+          <p><b>Chapter 6:</b> Writing for Your Readers<note>Because of the winter session's
+              accelerated schedule, you should extend the deadline for the chapter quizzes assigned
+              with this lesson until Lesson 6 (one calendar week into the semester).</note></p>
+          <p><b>Appendix A:</b> Documenting Your Sources (no quiz)</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry>
+          <p><b>Ethics and legal considerations:</b> Plagiarism, copyright issues, citations, writer
+            responsibilities and related issues in documentation</p>
+          <p><b>Writing style:</b> Concepts on writing style as they relate to technical
+            documents</p>
+          <p><b><xref href="../assignments/workshop_description_doc.dita#concept_wl3_llq_fx"
+                >Description document workshop</xref>:</b> Students review and edit their assigned
+            teammates' <xref href="../assignments/paper_description_doc.dita#concept_ffq_m3t_2x"
+              >description document assignments</xref> (requires that you first assign students into
+            workshop groups)<note>Because of the winter session's accelerated schedule, you should
+              delay this workshop one lesson during the winter session, giving students one
+              additional day to work on their papers.</note></p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

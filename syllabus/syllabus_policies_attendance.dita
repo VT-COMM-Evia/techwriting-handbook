@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_elp_vj4_1y">
+ <title>Attendance</title>
+ <shortdesc>The syllabus should explain the concept of attendance as it relates to your class as an
+  online course.</shortdesc>
+ <conbody>
+  <p>The relevant information for attendance could be included as a subsection to the <xref
+    href="syllabus_policies.dita#concept_f1m_nx3_1y">policies section</xref> and should include:<ul
+    id="ul_azm_ns4_1y">
+    <li>A statement that explains the concept of attendance as it relates to your class as an online
+     course</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Attendance</b></p>
+   <p>Because this course is in an asynchronous online format, there is no concept of attendance.
+    You conduct your studies at your own time and pace (within the parameters of our deadlines). The
+    lesson schedule and deadlines are posted well in advance of their actual dates. Therefore, you
+    have time to complete work by all deadlines even if you are sick for a day or two.</p>
+  </example>
+ </conbody>
+</concept>

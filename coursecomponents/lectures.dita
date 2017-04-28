@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vqp_xyp_rw">
+ <title>Lectures</title>
+ <shortdesc>A lecture is the method through which instructors teach specific concepts of a given
+  topic. When delivered through an online course, lectures are synonymous with
+  tutorials.</shortdesc>
+ <conbody>
+  <p>While the medium through which you deliver a lecture will likely depend on the <xref
+        href="../resources/tools_resources.dita#concept_qjg_rxp_rw">resources</xref> you have
+      available to create the lecture, it is important to remember that the lecture should be
+      dictated based on the needs of the concepts being taught. For example, some elements of
+      punctuation and grammar may be easily taught and learned through a written document (delivered
+      as a PDF). However, such concepts as rhetorical situation may be better delivered as a <xref
+        href="../resources/elearning_dev_program.dita#concept_vnz_jwc_dx">screencast or
+      video</xref>. Regardless of the medium, a lecture should be as short as possible (for example,
+      a video should be no longer than six minutes) and thus should cover a specific concept within
+      a given topic.<note>Your lessons do <b>not</b> have to include only lectures that you create.
+        You can integrate written work and videos from other sources if you believe they are
+        effective for the material being taught. However, it is important to ensure all material
+        (including material from external sources) is <xref
+          href="../disabilities/accessibilty_disabilities.dita#concept_ulm_ywp_rw">accessible</xref>
+        to students with disabilities.</note></p>
+ </conbody>
+</concept>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dgr_vct_2x">
+ <title>Textbooks and Resources</title>
+ <shortdesc>Students need to know the textbooks and resources that are required for the course and
+  those that are optional.</shortdesc>
+ <conbody>
+  <p>The relevant information for textbooks and resources includes:<ul id="ul_vxd_lbs_dx">
+    <li>Required textbook(s)</li>
+    <li>Resources such as websites, applications, and access to the learning management system</li>
+    <li>Optional books</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Textbook and Resources</b></p>
+   <p>This course has a required textbook and several required resources.</p>
+   <p><u>Required Textbook</u></p>
+   <p>Markel, M. (2013). <cite>Practical strategies for technical communication</cite>. Boston, MA:
+    Bedford/St. Martin’s. ISBN-13: 978-1457609404.</p>
+   <p><u>Required Resources</u></p>
+   <p>There are additional resources required for this course:<ul id="ul_rph_k2t_2x">
+     <li>This course is conducted through the Canvas learning management system, which you can
+      access at: <b>https://canvas.vt.edu</b>.</li>
+     <li>Some lessons are conducted through interactive multimedia modules that require Adobe Flash
+      to be installed on your computer. You will access these modules through Canvas, which should
+      automatically verify that you have the appropriate version of Flash installed.</li>
+     <li>Some classes require you to view tutorials on Lynda.com. Lynda.com is available for free to
+      Virginia Tech students through <b>http://www.olcs.lt.vt.edu/lynda/</b>.</li>
+     <li>To ensure your technical documents are formatted professionally, you must have a
+      professional word-processing tool. Since Microsoft Word is the most common tool used in
+      professional environments, I recommend it as your primary tool for this course. Alternatively,
+      you might choose to use Google Docs, which provides content formatting features and allows for
+      online collaboration with others. You will be required to submit most of your work as
+       <b>PDF</b> files, which both tools can manage for you.</li>
+    </ul></p>
+   <p><u>Optional Book</u></p>
+   <p>In addition to the required textbook and resources, I also recommend the latest copy of your
+    favorite grammar book or similar writing reference, such as <cite>A Writer’s Reference</cite> by
+    Diana Hacker.</p>
+  </example>
+ </conbody>
+</concept>

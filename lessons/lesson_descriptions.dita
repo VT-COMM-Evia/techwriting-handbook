@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wk5_lkc_bx">
+ <title>Lesson Descriptions</title>
+ <shortdesc>Lessons are sets of one or more course topics, delivered in online postings over the
+    entire semester. While instructors are free to arrange lessons as they deem appropriate for
+    their classes, the lessons provided here typically work well for this course and can serve as a
+    starting point. At a minimum, you should ensure your lessons meet the lesson objectives
+    specified here.</shortdesc>
+ <conbody>
+  <p>Each lesson includes a selected set of <xref
+        href="../coursecomponents/course_components.dita#concept_j2p_2yp_rw">course
+        components</xref> (objectives, topic lectures, assignments, quizzes, and other resources)
+      that collectively teach one or more topics in the course.</p>
+  <p>The frequency at which lessons are posted depends on whether the semester is a <xref
+        href="../schedules/regular_semester.dita#concept_ilt_mjk_sw">regular semester</xref>, <xref
+        href="../schedules/summer_session.dita#concept_r31_pjk_sw">summer session</xref>, or <xref
+        href="../schedules/summer_session.dita#concept_r31_pjk_sw">winter session</xref>. For
+      example, typically a regular semester has one lesson posted per week while the winter session
+      has one lesson posted per weekday. Because the regular semester is comprised of 15 academic
+      weeks, this course is comprised of 15 lessons. Refer to the <xref
+        href="../quickrefs/quick_refs.dita#concept_umd_y1q_rw">quick reference schedules</xref> for
+      specific schedules and additional guidelines for scheduling lessons based on the semester
+        type.<note id="lesson_textbook">The corresponding <xref
+          href="../coursecomponents/books_refs_textbooks.dita#concept_swp_bnq_dx">textbook</xref>
+        readings and quizzes for lesson descriptions are from <cite>Practical Strategies for
+          Technical Communication</cite> by Mike Markel. If you use a different textbook you will
+        have to make the appropriate adjustments to the reading assignments.</note></p>
+ </conbody>
+</concept>

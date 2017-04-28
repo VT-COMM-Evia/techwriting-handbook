@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hqg_ddd_dx">
+ <title>Google Drive</title>
+ <shortdesc>Google Drive provides a place for students and faculty to save content in the cloud and
+  then share that content (or collaborate on it) with others to whom they give
+  permission.</shortdesc>
+ <conbody>
+  <p>Other Google apps (such as <xref href="google_docs.dita#concept_gmt_hdd_dx">Google Docs</xref>
+   and <xref href="google_slides.dita#concept_l2l_pdd_dx">Google Slides</xref>) use Google Drive as
+   the storage location for content developed with those apps (you can also save content to your
+   local computer). Even if students do not want to use Google Drive to share or collaborate on
+   content, it is a good (and free) tool for them to back up their work in the class. Since storage
+   space is free for Virginia Tech students, you can reasonably require students to maintain backups
+   of all their work so that students will not miss assignment deadlines because of data loss on
+   their local computer.</p>
+ </conbody>
+</concept>

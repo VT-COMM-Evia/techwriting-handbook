@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_h2b_vk4_1y">
+ <title>Format and Method for Submission</title>
+ <shortdesc>The syllabus should explain the required file formats for assignments and policies on
+  how to take tests and quizzes.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies on the format and method of assignment submissions could
+   be included as a subsection to the <xref
+    href="syllabus_policies_assignments.dita#concept_vx4_qk4_1y">assignments subsection</xref> (in
+   the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies section</xref>) and
+    includes:<ul id="ul_lfq_fw4_1y">
+    <li>A statement that explains your policies on how to take tests and quizzes</li>
+    <li>A statement that explains your policies for file submissions</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Format and Method for Submission</b></p>
+   <p>You will take all quizzes and tests through Canvas. You must submit all projects, papers, and
+    exercises as a <b>PDF document through Canvas</b> unless otherwise directed in class.</p>
+  </example>
+ </conbody>
+</concept>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_mx4_ylq_fx">
+ <title>White Paper Workshop</title>
+ <shortdesc>This workshop has students review, edit, and provide feedback on fellow students' white
+  paper assignment.</shortdesc>
+ <conbody>
+    <p><b>Purpose:</b> Have students review an assigned paper and offer feedback to one another to
+      help the writer in the editing process. This workshop also provides students with an
+      additional method to apply what they have been learning in the class.</p>
+    <p><b>Summary:</b> Students exchange a solid draft (near final draft) of their assigned <xref
+        href="project_white_paper.dita#concept_lw3_ddq_fx">white paper project</xref> with two other
+      students who review, edit, and provide feedback on the work. Each student reviews two papers
+      and has their paper reviewed by two students. You can provide students with the checklist and
+      guidelines below to help them as they review one another's white papers.<note type="tip"><xref
+          href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> provides an automated system
+        for assigning papers to students for review. The system automatically manages the process of
+        sharing the papers with assigned reviewers and then collecting their
+      edits/feedback.</note></p>
+    <p><b>Corresponding Lesson Topics:</b> Reviews and copyedits; grammar and punctuation; writing
+      style; white papers.</p>
+    <p><b>Grading Guidelines:</b> Ensure the student has written a solid draft of their paper. Also
+      verify the quality of the edits and feedback the student provided for their review. The review
+      should be thoughtful and reflect an application of their knowledge of writing style, grammar
+      and punctuation, and the white paper genre.</p>
+  <example>
+   <title>Editing Checklist for White Paper</title>
+   <p>Use the bullet points below as guidelines to help in editing each white paper for this
+    workshop (these are guidelines, so feel free to add other feedback not covered here). As you
+    edit the document, don’t simply say (for example) “Double check if this punctuation is correct.”
+    Instead, look up the answer yourself so you can tell the writer with authority. Remember, the
+    workshop is not just about editing another writer’s paper. It is also about reinforcing what you
+    are learning about technical writing.</p>
+   <p><b>Writing</b><ul id="ul_x3t_ypq_fx">
+     <li>Document has a clear title that briefly and accurately describes the topic.</li>
+     <li>Writing is free of grammatical, punctuation, spelling, and typographical errors.</li>
+     <li>Content is easy to understand.</li>
+     <li>Wording is not extraneous but is instead concise.</li>
+     <li>Writing is free of passive voice (unless used in an appropriate situation).</li>
+    </ul></p>
+   <p><b>White Paper Characteristics</b><ul id="ul_xrs_crq_fx">
+     <li>Beginning sets up the topic the white paper discusses.</li>
+     <li>Main content is informative and/or educational.</li>
+     <li>Narrative subtly persuades you toward an action (even if that action is simply to consider
+      an idea).</li>
+    </ul></p>
+   <p><b>Design</b><ul id="ul_pkf_2qq_fx">
+     <li>Document looks professional (not like an academic essay).</li>
+     <li>Page design invites reader in and holds the reader’s attention.</li>
+     <li>Document has consistent use of headings (if any), text alignment, fonts, and any other
+      elements.</li>
+     <li>Document contains professional illustrations, charts, and/or tables that support the
+      narrative.</li>
+    </ul></p>
+  </example>
+ </conbody>
+</concept>

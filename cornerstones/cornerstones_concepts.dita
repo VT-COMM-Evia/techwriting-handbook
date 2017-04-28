@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_bk3_mqp_rw">
+ <title>Concepts of Technical Writing</title>
+ <shortdesc>Students must not only be able to write correctly but also understand general concepts
+    about what technical writing means.</shortdesc>
+ <conbody>
+  <p>This course must ensure students can demonstrate knowledge of the following technical writing
+        concepts:<ul id="ul_xfl_rqp_rw">
+        <li>Technical writing genres</li>
+        <li>Process, including audience assessment and research</li>
+        <li>Tools and media for creating and delivering technical documents</li>
+      </ul></p>
+ </conbody>
+</concept>

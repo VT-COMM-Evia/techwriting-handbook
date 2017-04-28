@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sn4_42s_bx">
+ <title>Instructions</title>
+ <shortdesc>This exercise has students write steps for the audience to perform a specific
+  task.</shortdesc>
+ <conbody>
+  <p><b>Purpose:</b> Give students an opportunity to practice writing instructions prior to the
+    <xref href="../assignments/paper_instructions.dita#concept_wym_pc1_fx">graded instruction set
+    assignment</xref>.</p>
+  <p><b>Summary:</b> Give students a very specific task that they would be very familiar with, and
+   have them write instructions for an audience who has never performed the task. The example below
+   has students write instructions for tying a shoelace. Any task could work for this exercise;
+   however, it should be a common task that students know how to perform well. </p>
+  <p><b>Corresponding Lesson Topic:</b> Instructions.</p>
+  <p><b>Grading Guidelines:</b> Verify that students wrote clear, direct, numbered steps in
+   imperative mood. There should be no more than 7 +/- 2 steps, and each step should have no more
+   than one specific action. For the tying a shoelace example below, this is extremely challenging
+   for students, who will often try to add multiple actions into one step to avoid going over 7 +/-
+   2 steps. The steps should work correctly and not make any assumption that the audience has ever
+   tied a shoelace before.</p>
+  <example>
+   <title>Description for Students</title>
+   <p>Using only words (no illustrations), write instructions on how to tie shoelaces. Though this
+    may sound like a silly exercise, it is actually quite challenging to do because you must adhere
+    to the guidelines discussed in the lecture about writing instructions and you cannot assume any
+    knowledge about the audience. This will make it more difficult than it initially seems because
+    you likely take these steps for granted every day and never even think about them when tying
+    shoelaces.</p>
+   <p>Consider the following guidelines:</p>
+   <ul id="ul_tjh_xfs_bx">
+    <li>
+     <p>While it’s true that pictures can be “worth 1,000 words” and are typically desirable in
+      technical documentation, this exercise is about practicing how to write steps. Therefore, you
+      cannot use illustrations--you must use only words to explain how to perform the task.</p>
+    </li>
+    <li>
+     <p>You must assume the audience knows nothing about tying a shoelace and has never seen the
+      task performed prior to receiving your instructions.</p>
+    </li>
+    <li>
+     <p>You only have to focus on the steps and not a formal document as a whole.</p>
+    </li>
+    <li>
+     <p>While the writing will be shorter in nature (7 steps +/- 2), the planning should be
+      extensive to make sure clear, concise steps result in the desired outcome.</p>
+    </li>
+    <li>
+     <p>Do not use sub-steps to make it easier to meet the seven-step rule.</p>
+    </li>
+    <li>
+     <p>Remember that steps are numbered, not bulleted.</p>
+    </li>
+    <li>
+     <p>Write with clear instructions in the imperative mood (in the form of a command or
+      request).</p>
+    </li>
+    <li>
+     <p>When finished writing, test the instructions (better yet, have someone else test them).</p>
+    </li>
+   </ul>
+   <p>Save the document as a <b>PDF</b> file, and upload a copy here.</p>
+  </example>
+ </conbody>
+</concept>

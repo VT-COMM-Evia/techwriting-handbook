@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_v11_bm4_1y">
+ <title>Online Classes</title>
+ <shortdesc>The syllabus should explain policies for how you will conduct the class and post lesson
+  materials in an online environment.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies conducting the online class could be included as a
+   subsection to the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies section</xref>
+   and should include:<ul id="ul_e55_cz4_1y">
+    <li>The days and times you will post new lesson materials</li>
+    <li>How students should work in the online class environment</li>
+    <li>How groups should interact in an online class environment</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Online Classes</b></p>
+   <p>I will post materials for each lesson on <b>Tuesdays</b> at <b>2:00 PM</b>. If the posting day
+    falls on a day when university classes are not in session, I will post the lesson the following
+    day. I send an announcement through Canvas for each lesson, and I post each lesson under the
+    Canvas <b>Modules</b> menu.</p>
+   <p>You will conduct your studies at your own time and pace (within the parameters of our
+    deadlines). Most class lessons have multiple components that may include written, audio, and
+    video lectures, handouts, assignments, and other related items. I will order and explain each
+    component so that you can follow them in their intended sequence for that lesson.</p>
+   <p>Some lessons include “in-class” exercises. You have until the start of the following class to
+    submit any corresponding in-class exercise, unless I specify otherwise with the exercise. You
+    must submit in-class exercises as a <b>PDF document through Scholar</b> unless otherwise
+    directed in class.</p>
+   <p>For group work, I will assign students to groups and post the groupings in Canvas. It is up to
+    each student to contact the other student(s) in the group (through Canvas, email, etc.). To be
+    fair to your fellow classmates, make contact with each other as soon as possible after the
+    groupings are posted. Notify me as soon as possible if you are unable to contact a classmate
+    assigned to your group. If you are constantly unavailable to your fellow classmates for group
+    exercises, your class participation factor will suffer, as discussed in the <xref
+     href="syllabus_grading.dita#concept_nxr_n43_1y">Grading</xref> section.</p>
+  </example>
+ </conbody>
+</concept>

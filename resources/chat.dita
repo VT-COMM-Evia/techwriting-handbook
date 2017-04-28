@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tmn_1yp_rw">
+ <title>Chat</title>
+ <shortdesc>Even though this course is asynchronous and conducted online, instructors can still hold
+  virtual office hours or facilitate other meetings (with individual students or workgroups) through
+  text, voice, or video chat.</shortdesc>
+ <conbody>
+  <p>With the plethora of free chat tools available today, you have many options for engaging in
+   direct conversations with remote students. The only requirement is that you select a tool that
+   supports multiple device types (laptop, tablet, and phone) so that students can engage in the
+   meeting with whichever device type they use. This handbook discusses two preferred chat tools:<ul
+    id="ul_ogq_wtg_1y">
+    <li><xref href="https://www.skype.com" format="html" scope="external">Skype</xref> is free chat
+     tool and is typically installed by default on most devices. It allows you to conduct <xref
+      href="chat_text.dita#concept_sk2_cjq_dx">text</xref>, <xref
+      href="chat_voice.dita#concept_zky_cjq_dx">voice</xref>, and <xref
+      href="chat_video.dita#concept_yfr_djq_dx">video</xref> chat.</li>
+    <li>WebEx is a conferencing tool that allows you to hold virtual meetings, teach classes, and
+     hold office hours on the Web. Virginia Tech has a WebEx license that allows you to use the tool
+     for free. <xref href="../about/about_definitions.dita#concept_ldw_hrk_sw/termTLOS">TLOS</xref>
+     provides more information about using WebEx at <xref href="https://webex.tlos.vt.edu/"
+      format="html" scope="external">https://webex.tlos.vt.edu/</xref>.</li>
+   </ul></p>
+ </conbody>
+</concept>

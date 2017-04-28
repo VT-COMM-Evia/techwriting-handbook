@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kjw_nyp_rw">
+ <title>Announcements</title>
+ <shortdesc>Announcements allow you to remain in contact with your students and provide them with
+  timely updates regarding class activities and issues.</shortdesc>
+ <conbody>
+  <p><xref href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> includes an announcements
+   feature that allows you to post messages for students. This feature is a particularly useful
+   communication tool because students by default receive an email whenever an announcement is
+   posted. This functionality allows you to use announcements as a way to send mass emails to your
+   students.</p>
+  <p>In some cases, you might script announcements based on events you know will occur during the
+   semester. For example, you might know that you want to remind students of upcoming deadlines or a
+   holiday on which no lesson will be posted. If you script announcements like this ahead of time in
+   Canvas, you can set the announcement to become available at a specified date and time.</p>
+  <p>While you will use announcements for almost anything you want to discuss with students, you
+   should consider using announcements regularly for the following events:<simpletable frame="all"
+    relcolwidth="1.0* 3.88*" id="simpletable_xgb_ljk_by">
+    <sthead>
+     <stentry>Event</stentry>
+     <stentry>Purpose</stentry>
+    </sthead>
+    <strow>
+     <stentry>Initial Welcome and Final Goodbye</stentry>
+     <stentry>To formally kick off the course, you should post an announcement that becomes
+      available a day or two before the semester begins. At the end of the semester, you should post
+      one final announcement to bring the class to an official end. These announcements should be in
+      addition to the first and last lesson summaries. Since an email is also sent with these
+      announcements, you could use them as the welcome and completion emails discussed in the class
+       <xref href="../checklists/checklist_class_setup.dita#reference_vgs_mns_bx">setup</xref> and
+       <xref href="../checklists/checklist_class_completion.dita#reference_w4z_fkk_by"
+       >completion</xref> checklists.</stentry>
+    </strow>
+    <strow>
+     <stentry>Lesson Summaries</stentry>
+     <stentry>Although you will post your <xref
+       href="../lessons/lesson_descriptions.dita#concept_wk5_lkc_bx">lessons</xref> as <xref
+       href="lesson_modules.dita#concept_g4h_hyp_rw">modules</xref> in Canvas, you should also post
+      an announcement to introduce each lesson and the main concepts the lesson teaches. Since you
+      know when your lessons will be available, you can script a specific announcement that
+      corresponds with each lesson and schedule that announcement to become available (and send a
+      corresponding email) when the lesson is available.<note type="tip">When timing scripted
+       announcements for lessons, be sure to schedule the announcement to post for no earlier than
+       when the lesson module becomes available. A useful strategy is to time the announcement for
+       10 or 15 minutes after the corresponding lesson's scheduled posting.</note></stentry>
+    </strow>
+    <strow>
+     <stentry>Deadline Reminders</stentry>
+     <stentry>Although deadlines are available with each deliverable in Canvas, you should also post
+      an announcement as a reminder several hours to a day (depending on the <xref
+       href="../schedules/course_schedules.dita#concept_ar5_n1q_rw">semester schedule</xref>) before
+      a major deliverable is due. Since you know when your lessons will be available, you can script
+      a specific announcement that corresponds with each lesson and schedule that announcement to
+      become available (and send a corresponding email) when the lesson is available.<note>While it
+       would be impractical to do so for every quiz or exercise, you should consider a reminder for
+       tests, workshops, and graded assignments. Also, for the first few lessons, it is wise to post
+       reminder announcements for all work (including quizzes and exercises) until students get used
+       to the routine of your class schedule.</note></stentry>
+    </strow>
+    <strow>
+     <stentry>Grades and Feedback Completed</stentry>
+     <stentry>After posting grades for assignments, you should announce that grades and feedback are
+      available. This is also an opportunity to communicate any general comments to the class. For
+      example, if there was a common trend that you want to correct, you could address it in the
+      announcement and ask students to go back and review the appropriate lesson.</stentry>
+    </strow>
+   </simpletable></p>
+ </conbody>
+</concept>

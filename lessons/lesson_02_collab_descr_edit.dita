@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_pgw_gdj_kx">
+  <title>Lesson 2: Collaboration, Descriptions, and Editing</title>
+  <shortdesc>Lesson 2 has students start collaborating with workgroups, teaches definitions and
+    descriptions, and introduces the copyedit and content review skills needed for forthcoming
+    workshops.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_ykx_pdj_kx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_bwr_ph2_sz">
+            <li>Collaborate with teammates in preparation for group work throughout the
+              semester.</li>
+            <li>Identify strategies and online tools for collaborating on writing projects with a
+              team.</li>
+            <li>Employ concepts and structure of parenthetical, definition, and extended
+              definitions.</li>
+            <li>Employ concepts and structure of object, process, and mechanism descriptions.</li>
+            <li>Identify editorial roles in the editing process, strategies for editing documents,
+              and standard proofreading symbols.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>
+          <p><b>Chapter 3:</b> Writing Collaboratively and Using Social Media</p>
+          <p><b>Chapter 14:</b> Writing Definitions, Descriptions, and Instructions (pp.
+            358–374)</p>
+          <p>
+            <note>Because some students may add to the course late or might otherwise be delayed in
+              obtaining the textbook, you should extend the deadlines for the chapter quizzes
+              assigned with this lesson. For <xref
+                href="../schedules/regular_semester.dita#concept_ilt_mjk_sw">regular
+                semesters</xref> and <xref
+                href="../schedules/summer_session.dita#concept_r31_pjk_sw">summer sessions</xref>,
+              you should consider a deadline of Lesson 3 (one to two weeks into the semester). For
+              the <xref href="../schedules/winter_session.dita#concept_u5b_sjk_sw">winter
+                session</xref>, you should consider a deadline of Lesson 6 (one week into the
+              semester).</note>
+          </p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry>
+          <p><b>Workgroups:</b> Assignment of students into workgroups for group work throughout the
+            semester (requires that you first assign students into groups, preferably by related
+            majors)</p>
+          <p><b>Collaboration and social media:</b> Strategies and online tools for collaborating on
+            writing projects with a team</p>
+          <p><b>Definitions:</b> Concepts and structure of parenthetical, definition, and extended
+            definitions</p>
+          <p><b>Descriptions:</b> Concepts and structure of parenthetical, definition, and extended
+            definitions</p>
+          <p><b>Reviews and copyedits:</b> Roles in the editing process, strategies for editing
+            documents, and standard proofreading symbols.</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref href="../exercises/exercise_extended_definition.dita#concept_vvb_b5r_bx">Extended
+            definition (group)</xref><note>Because of the winter session's accelerated schedule, you
+            should extend this deadline by one lesson during the winter session, giving students one
+            additional day to finish the work.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref href="../assignments/workshop_description_doc.dita#concept_wl3_llq_fx"
+            >Workshop</xref> draft of <xref
+            href="../assignments/paper_description_doc.dita#concept_ffq_m3t_2x">description
+            document</xref><p><b>Due in 2 lessons:</b> Group feedback to writers from description
+            document workshop</p><p><b>Due in 3 lessons:</b> Final draft of description document</p><p>
+            <note>Because of the winter session's accelerated schedule, you should extend these
+              deadlines one lesson during the winter session, giving students one additional day to
+              work on their papers and edits.</note>
+          </p></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_umd_y1q_rw">
+ <title>Quick Reference Schedules</title>
+ <shortdesc>Quick references provide a brief one or two-page schedule for students to quickly see
+    time-related issues such as lesson postings, quiz deadlines, and assignment
+    postings.</shortdesc>
+ <conbody>
+  <p>Because there is no structured class schedule to help students remain organized in a virtual
+            classroom, the quick reference helps them remain organized and pay attention to
+            deadlines without having to constantly look through the <xref
+                href="../syllabus/syllabus_components.dita#concept_jvk_ssr_dx">comprehensive
+                syllabus</xref>.</p>
+  <p>Quick references are based on <xref
+                href="../schedules/course_schedules.dita#concept_ar5_n1q_rw">semester</xref> type
+            (regular semester, summer session, and winter session). These semester types are similar
+            in terms of what topics and deadlines are assigned for each lesson; however, they differ
+            in how deadlines are assigned based on number of weeks (and therefore lesson frequency)
+            in the course. For example, in a regular semester course it is easy to assign students a
+            major deadline for the following lesson because that lesson is scheduled for the
+            following week. However, the same deadline would be more difficult in a winter session
+            because the next lesson could be the very next day.</p>
+ </conbody>
+</concept>

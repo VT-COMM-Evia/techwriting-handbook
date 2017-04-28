@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nxr_n43_1y">
+ <title>Grading</title>
+ <shortdesc>The syllabus should explain how grading works for the required course
+  deliverables.</shortdesc>
+ <conbody>
+  <p>The relevant information for grading includes:<ul id="ul_drb_z43_1y">
+    <li>A breakdown of deliverables for the course</li>
+    <li>How grading applies to each of the deliverables</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Grading</b></p>
+   <p>You can track your grades at any time in Scholar. Grading for this course is based on the
+    following components:</p>
+   <p>
+    <ul id="ul_oh5_mp3_1y">
+     <li><b>Projects</b> (2 of them) account for <b>30%</b> of your grade (<b>15%</b> each).</li>
+     <li><b>Papers</b> (3 of them) account for <b>15%</b> of your grade (<b>5%</b> each).</li>
+     <li>One <b>oral presentation</b> (recorded and delivered digitally) accounts for <b>10%</b> of
+      your grade.</li>
+     <li><b>Tests</b> (2 of them on punctuation and grammar) account for <b>10%</b> (total) of your
+      grade.</li>
+     <li><b>Quizzes</b> (15 of them, open book) account for <b>15%</b> of your grade (<b>1%</b>
+      each).</li>
+     <li><b>Exercises</b> (approximately 8–12 of them), <b>professionalism</b>, and
+       <b>participation</b> account for <b>10%</b> of your grade.</li>
+     <li><b>Virtual workshops</b> (3 of them) account for <b>10%</b> of your grade.</li>
+    </ul>
+   </p>
+   <p>As you can see, no one component alone can give you a passing grade. All components are
+    important and carry enough weight to affect your final grade. Your <b>final grade</b> is the
+     <b>sum total of the point scores</b> calculated from the grades of all components.</p>
+  </example>
+ </conbody>
+</concept>

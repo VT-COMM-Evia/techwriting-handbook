@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_yc4_wqh_1y">
+  <title>Lesson 12: Oral Presentations and Localization</title>
+  <shortdesc>Lesson 12 explains how to rehearse and create supplements for oral presentations and
+    teaches concepts of globalization, localization, and translation of technical
+    documents.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_yqf_hrh_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_ykn_j42_sz">
+            <li>Employ concepts and strategies for delivering oral presentations.</li>
+            <li>Design supporting supplements for presentations.</li>
+            <li>Use tools to record and deliver oral presentations online.</li>
+            <li>Discuss concepts on globalization, localization, and translation of technical
+              documents.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Chapter 15:</b> Making Oral Presentations<p><b>Localization articles:</b>
+            Material you believe to be appropriate for explaining concepts of globalization,
+            localization, and translation of technical documents</p></stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>Oral presentations:</b> Concepts and strategies for delivering oral
+          presentations and for designing and writing supporting supplements for
+              presentations<p><b>Recorded presentations:</b> Tools and strategies for recording oral
+            presentations and delivering them online</p><b>Localization:</b> Concepts on
+          globalization, localization, and translation of technical documents</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 3 lessons:</b> Final recording of <xref
+            href="../assignments/assignment_descriptions_presentations.dita#concept_wpk_m2r_dx">oral
+            presentation</xref></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

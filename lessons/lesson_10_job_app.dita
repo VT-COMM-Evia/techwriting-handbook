@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_rvl_jmh_1y">
+  <title>Lesson 10: Job-Application Materials</title>
+  <shortdesc>Lesson 10 teaches cover letters, resumes, and related job-application materials and
+    allows students time to work in project groups toward their formal report project.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_skt_qmh_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_khv_nm2_sz">
+            <li>Employ concepts and structure of resumes in the job-application process.</li>
+            <li>Employ concepts and structure of cover letters for supporting resumes in the
+              job-application process.</li>
+            <li>Employ concepts and structure of supporting job-application materials such as
+              thank-you letters, list of references, and portfolios in the job-application
+              process.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Chapter 10:</b> Writing Job-Application Materials</stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>Resumes:</b> Concepts and strategies for designing and writing resumes for the
+          job-application process<p><b>Cover letters:</b> Concepts and strategies for writing cover
+            letters to support resumes</p><p><b>Other job-application materials:</b> Concepts and
+            strategies for supporting job-application materials such as thank-you letters, list of
+            references, and portfolios</p><p><b>Group project work:</b> Allocated time for project
+            groups to work on their <xref
+              href="../assignments/project_formal_report.dita#concept_fjg_crp_fx">formal
+              report</xref> (proposal and/or a recommendation report)</p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 2 lessons:</b> Final draft of job-application <xref
+            href="../assignments/paper_cover_letter.dita#concept_oqk_pgb_fx">cover
+          letter</xref></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

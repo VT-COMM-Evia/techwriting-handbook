@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ugm_5yp_rw">
+ <title>Tests and Quizzes</title>
+ <shortdesc>While most work in this course will be through writing papers, tests and quizzes serve
+  as useful supplements to ensure students are keeping up with conceptual material.</shortdesc>
+ <conbody>
+  <p><xref href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> includes a feature for
+   creating and administering tests and quizzes. Some types of tests/quizzes to consider for this
+   course include:<ul id="ul_zxr_bzk_by">
+    <li><b>Chapter quizzes:</b> Quizzes offer a way to ensure that students are reading the assigned
+     textbook readings. Consider allowing students to take these as open book quizzes over a
+     considerable time period (for example, make each quiz available several days to a week before
+     the quiz is due). Offering up to one full point per quiz means the quizzes collectively can
+     count for up to 15% of the final grade if you have a quiz for each of 15 textbook
+     chapters.</li>
+    <li><b>Grammar tests:</b> While students are expected to have learned grammar in their
+     prerequisite writing classes, they often times enter this course a bit "rusty" on their grammar
+     skills. Having grammar tests forces students to quickly brush up on their grammar before they
+     start writing their papers and projects. Consider requiring two tests: one low-stakes test that
+     gives students a gauge to determine what they may or may not need to continue reviewing and one
+     higher-stakes test that offers a final measure of students' performance.</li>
+   </ul><note>Because some students may add to the course late or might otherwise be delayed in
+    obtaining the textbook, you should extend the deadlines for chapter quizzes that are assigned
+    over the first few lessons. For example, you might assign introductory readings and
+    corresponding quizzes that are due over the first two lessons. However, you should consider
+    extending the quiz deadlines to the third lesson to give students a chance to obtain the
+    textbook and get caught up on the readings.</note></p>
+ </conbody>
+</concept>

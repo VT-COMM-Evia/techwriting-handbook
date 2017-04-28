@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zky_cjq_dx">
+ <title>Voice Chat</title>
+ <shortdesc>Voice chat allows you to communicate directly with students real-time.</shortdesc>
+ <conbody>
+  <p>Engaging in voice chat with students can be as simple as allowing them to call you at your
+   office phone during established hours. However, because using your office phone requires that you
+   physically be at your phone, it would likely serve you better to use an app that supports voice
+   chat. As discussed with <xref href="chat_text.dita#concept_sk2_cjq_dx">text chat</xref>, <xref
+    href="https://www.skype.com" format="html" scope="external">Skype</xref> offers a useful
+   solution that allows you to be in any location when you engage in voice-based conversations.
+   Skype also allows you to share your screen during voice or <xref
+    href="chat_video.dita#concept_yfr_djq_dx">video</xref> chat so that you can display resources
+   (for example, a website or a student's paper) while engaged in the chat session. <xref
+    href="https://webex.tlos.vt.edu/" format="html" scope="external">WebEx</xref>, despite being
+   primarily for full conferencing, also facilitates voice chat and supports screen sharing.</p>
+ </conbody>
+</concept>

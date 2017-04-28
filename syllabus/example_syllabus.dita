@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pmt_gsr_dx">
+ <title>Example Syllabus</title>
+ <shortdesc>You can use this example syllabus as needed to create your own course syllabus for your
+  classes.</shortdesc>
+ <conbody>
+  <example>
+   <title>Example Syllabus</title>
+   <ul id="ul_j1w_z5r_dx">
+    <li><xref href="example_syllabus.pdf" format="pdf">Syllabus in PDF format</xref>: This example
+     shows a complete syllabus for a regular semester course.</li>
+    <li><xref href="example_syllabus.docx" format="docx">Syllabus in Word (.docx) format</xref>:
+     This example provides an editable template.</li>
+   </ul>
+  </example>
+ </conbody>
+</concept>

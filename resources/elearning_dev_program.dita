@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vnz_jwc_dx">
+ <title>E-learning Development Programs</title>
+ <shortdesc>E-learning development programs such as Adobe Captivate and Techsmith Camtasia allow
+  instructors to build and deliver lesson modules in a multimedia format.</shortdesc>
+ <conbody>
+  <p>Although you will have textbooks, articles, and other reading material to assign as part of
+   your class curriculum, students will expect a component that <xref
+    href="../coursecomponents/lectures.dita#concept_vqp_xyp_rw">delivers lessons to them much like a
+    lecture</xref> in a traditional face-to-face classroom. While you might share PDFs or links to
+   online articles for students to read as part of a lesson, students will quickly become bored if
+   all of their lessons consist of nothing but reading.</p>
+  <p>An e-learning development program allows you to create tutorials and short lectures in which
+   you deliver lesson components to students in a multimedia platform. For example, you might create
+   an audio/video clip in which you talk to the student about a report type while showing an example
+   of the report in the video. Such a clip might also include interaction with the student that has
+   them, for example, answer a few quiz questions before continuing with the lesson. At a minimum,
+   you can use e-learning development programs to create a screencast in which you speak while
+   showing corresponding slides on the screen.<note type="important">When creating tutorial and
+    lecture clips, be sure to account for students who have <xref
+     href="../disabilities/accessibilty_disabilities.dita#concept_ulm_ywp_rw">disabilities or other
+     accessibility concerns</xref>.</note></p>
+  <p>Two common e-learning development programs are <xref
+    href="http://www.adobe.com/products/captivate.html" format="html" scope="external">Adobe
+    Captivate</xref> and <xref href="https://www.techsmith.com/camtasia.html" format="html"
+    scope="external">Techsmith Camtasia</xref>. If you do not want to purchase your own copy of such
+   a program, <xref href="../about/about_definitions.dita#concept_ldw_hrk_sw/termTLOS">TLOS</xref>
+   has these tools installed on computers that are available for instructors to use. TLOS will also
+   help you get started working with the tools and creating lessons. You can obtain more information
+   about TLOS classes at <xref href="https://tlos.vt.edu/" format="html" scope="external"
+    >https://tlos.vt.edu/</xref>. You can also access tutorials for working with these tools at
+    <xref href="http://www.olcs.lt.vt.edu/lynda/" format="html" scope="external">Lynda.com</xref>
+   (available to Virginia Tech faculty and students for free).</p>
+ </conbody>
+</concept>

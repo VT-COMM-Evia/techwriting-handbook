@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_yfr_djq_dx">
+ <title>Video Chat</title>
+ <shortdesc>Much like students in a traditional course can visit their instructor face-to-face
+  during office hours, students in a virtual course can meet face-to-face with their instructor in a
+  virtual environment.</shortdesc>
+ <conbody>
+  <p>Video chat is a good solution for instructors who like to emulate traditional classroom
+   behaviors. <xref href="https://www.skype.com" format="html" scope="external">Skype</xref> and
+    <xref href="https://webex.tlos.vt.edu/" format="html" scope="external">WebEx</xref> allow you to
+   hold face-to-face video conversations with students. As discussed with <xref
+    href="chat_voice.dita#concept_zky_cjq_dx">voice</xref> chat, these tools allow you to share your
+   screen during voice or video chat so that you can display resources (for example, a website or a
+   student's paper) while engaged in the chat session.</p>
+ </conbody>
+</concept>

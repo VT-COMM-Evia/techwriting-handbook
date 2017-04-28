@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jtq_yxp_rw">
+ <title>Google Drive and Apps</title>
+ <shortdesc>Google apps allow students to work on projects online and to share or collaborate with
+  others in a virtual environment.</shortdesc>
+ <conbody>
+  <p>All Virginia Tech students and faculty have a free academic account for storing files and
+   collaborating on projects online through <xref href="google_drive.dita#concept_hqg_ddd_dx">Google
+    Drive</xref> and apps. Google apps are particularly useful for students to collaborate with one
+   another and for instructors to work directly with students real time in an online environment.
+   For example, students might have to work on a group project to write a report. They can store the
+   report and supporting project files on Google Drive, and use <xref
+    href="google_docs.dita#concept_gmt_hdd_dx">Google Docs</xref> to write the document and
+   collaborate on it real time in an online environment. Similarly, instructors can work directly on
+   a document in Google Docs with a student. </p>
+ </conbody>
+</concept>

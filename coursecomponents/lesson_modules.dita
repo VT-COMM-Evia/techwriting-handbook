@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_g4h_hyp_rw">
+ <title>Lesson Modules</title>
+ <shortdesc>A module provides a mechanism for you to organize and deliver lessons, including all of
+  the lectures, assignments, and other components related to each lesson.</shortdesc>
+ <conbody>
+  <p><xref href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> provides a modules feature
+   that you can use for delivering your <xref
+    href="../lessons/lesson_descriptions.dita#concept_wk5_lkc_bx">lessons</xref>. You can organize
+   these modules to deliver one lesson per module (15 total for the course). Within each module you
+   would arrange the lectures, quizzes, assignments, and other components that relate to the
+   corresponding lesson.</p>
+  <p>If you build your course ahead of time in Canvas, you can set each module to become available
+   on a specified date and time, allowing you to have each lesson become available to students on
+   the scheduled date.</p>
+ </conbody>
+</concept>

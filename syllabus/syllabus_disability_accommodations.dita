@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_z4x_ywr_dx">
+ <title>Disability Accommodations</title>
+ <shortdesc>Students must be assured that the class will accommodate any disabilities they might
+  have.</shortdesc>
+ <conbody>
+  <note type="important">This is required content for your syllabus. The included example suffices
+   for the content required in your syllabus.</note>
+  <p>The relevant information for the disability accommodations includes:<ul id="ul_v22_bbl_sw">
+    <li>A statement that disability needs will be accommodated in the class</li>
+    <li>Student requirements to provide appropriate documentation</li>
+    <li>The website URL where students can read information from the Services for Students with
+     Disabilities (SSD) office</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Disability Accommodations</b></p>
+   <p>If you require special arrangements because of a disability, please contact me as soon as
+    possible so that I can help facilitate any needed accommodations. You must also provide
+    documentation of your disability to the Services for Students with Disabilities (SSD) office.
+    More information is available at <b>ssd.vt.edu</b>.</p>
+  </example>
+ </conbody>
+</concept>

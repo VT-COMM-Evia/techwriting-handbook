@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_mcp_tlq_fx">
+ <title>Instruction Set Workshop</title>
+ <shortdesc>This workshop has students review, edit, and provide feedback on fellow students'
+  instruction set assignment.</shortdesc>
+ <conbody>
+  <p><b>Purpose:</b> Have students review an assigned paper and offer feedback to one another to
+   help the writer in the editing process. This workshop also provides students with an additional
+   method to apply what they have been learning in the class.</p>
+  <p><b>Summary:</b> Students exchange a solid draft (near final draft) of their assigned <xref
+    href="paper_instructions.dita#concept_wym_pc1_fx">instruction set paper</xref> with two other
+   students who review, edit, and provide feedback on the work. Each student reviews two papers and
+   has their paper reviewed by two students. You can provide students with the checklist and
+   guidelines below to help them as they review one another's instruction sets.<note type="tip"
+     ><xref href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> provides an automated
+    system for assigning papers to students for review. The system automatically manages the process
+    of sharing the papers with assigned reviewers and then collecting their
+   edits/feedback.</note></p>
+  <p><b>Corresponding Lesson Topics:</b> Reviews and copyedits; grammar and punctuation; writing
+   style; instructions.</p>
+  <p><b>Grading Guidelines:</b> Ensure the student has written a solid draft of their paper. Also
+   verify the quality of the edits and feedback the student provided for their review. The review
+   should be thoughtful and reflect an application of their knowledge of writing style, grammar and
+   punctuation, and the instructions genre.</p>
+  <example>
+   <title>Editing Checklist for Instruction Set</title>
+   <p>Use the bullet points below as guidelines to help in editing each instruction set for this
+    workshop (these are guidelines, so feel free to add other feedback not covered here). As you
+    edit the document, don’t simply say (for example) “Double check if this punctuation is correct.”
+    Instead, look up the answer yourself so you can tell the writer with authority. Remember, the
+    workshop is not just about editing another writer’s paper. It is also about reinforcing what you
+    are learning about technical writing.</p>
+   <p><b>Writing</b><ul id="ul_x3t_ypq_fx">
+     <li>Document has a clear title that briefly and accurately describes the topic.</li>
+     <li>Document contains at least one conceptual topic (informational section) that is clearly
+      separate from the procedures and provides a clear background of the topic the procedures
+      address.</li>
+     <li>Document contains three or four procedural topics (sections with steps) with headings that
+      clearly identify the procedure.</li>
+     <li>Writing is free of grammatical, punctuation, spelling, and typographical errors.</li>
+     <li>Content is easy to understand and informational.</li>
+     <li>Wording is not extraneous but is instead concise.</li>
+     <li>Writing is free of passive voice (unless used in an appropriate situation).</li>
+    </ul></p>
+   <p><b>Procedures</b><ul id="ul_lmq_kqq_fx">
+     <li>Steps are introduced with clear stem sentences. A brief introductory sentence or two are
+      also acceptable, but they should be followed by a stem sentence that introduces the
+      steps.</li>
+     <li>Steps are ordered with Arabic numerals (1, 2, 3), and each set of steps (each procedural
+      section) starts with the number <b>1</b>.</li>
+     <li>Sub-steps are ordered with lowercase letters (a, b, c), and each set of sub-steps starts
+      with the letter <b>a</b>.</li>
+     <li>Steps use the imperative mood (direct, specific commands that typically begin with a
+      verb).</li>
+     <li>One procedure contains no more than 7 (± 2) steps.</li>
+     <li>If needed, the procedure tells the reader how they will know if they are successful.</li>
+    </ul></p>
+   <p><b>Design</b><ul id="ul_pkf_2qq_fx">
+     <li>Document looks professional (not like an academic essay).</li>
+     <li>Page design invites reader in and holds the reader’s attention.</li>
+     <li>Document has consistent use of headings (if any), text alignment, fonts, and any other
+      elements.</li>
+    </ul></p>
+  </example>
+ </conbody>
+</concept>

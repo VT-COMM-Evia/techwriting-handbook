@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ldw_hrk_sw">
+ <title>Definitions</title>
+ <shortdesc>This handbook uses terms that have specific meanings with regard to their
+  use.</shortdesc>
+ <conbody>
+   <dl>
+     <dlentry>
+       <dt id="termCanvas">Canvas</dt>
+       <dd>The <xref href="../resources/lms.dita#concept_oqy_5xp_rw">learning management system
+            (LMS)</xref> in use at Virginia Tech.</dd>
+     </dlentry>
+   </dl>
+   <dl>
+   <dlentry>
+    <dt id="termClass">class</dt>
+    <dd>A specific instance of a <xref href="#concept_ldw_hrk_sw/termCourse" format="dita"
+      >course</xref> section including all of its students.</dd>
+   </dlentry>
+  </dl>
+  <dl>
+   <dlentry>
+    <dt id="termCourse">course</dt>
+    <dd>The entire ENGL 3764: Technical Writing offering, which consists of scheduled <xref
+      href="#concept_ldw_hrk_sw/termLesson" format="dita">lessons</xref> to be delivered in an
+     online format over the duration of a <xref
+      href="../schedules/course_schedules.dita#concept_ar5_n1q_rw">scheduled semester</xref>.</dd>
+   </dlentry>
+  </dl>
+  <dl>
+   <dlentry>
+    <dt id="termCourseNumberName">ENGL 3764: Technical Writing</dt>
+    <dd>The official catalog number and name of this <xref href="#concept_ldw_hrk_sw/termCourse"
+      format="dita">course</xref>. The virtual classroom offering uses the same course number and
+     name as the traditional face-to-face offering of the course.</dd>
+   </dlentry>
+  </dl>
+  <dl>
+   <dlentry>
+    <dt id="termInstructor">instructor</dt>
+    <dd>The professor, instructor, graduate teaching assistant (GTA), or any other person teaching a
+            <xref href="#concept_ldw_hrk_sw/termClass" format="dita">class</xref>. In this handbook,
+          "instructor" does not refer to the instructor faculty rank at Virginia Tech.</dd>
+   </dlentry>
+  </dl>
+  <dl>
+   <dlentry>
+    <dt id="termLMS">learning management system (LMS)</dt>
+    <dd>The primary online platform for managing the entire virtual <xref
+            href="#concept_ldw_hrk_sw/termClass" format="dita">class</xref>. Currently, Virginia
+          Tech uses and supports <xref href="#concept_ldw_hrk_sw/termCanvas" format="dita"
+            >Canvas</xref> as an <xref href="../resources/lms.dita#concept_oqy_5xp_rw"
+          >LMS</xref>.</dd>
+   </dlentry>
+  </dl>
+  <dl>
+   <dlentry>
+    <dt id="termLesson">lesson</dt>
+    <dd>The delivery of one or more <xref href="#concept_ldw_hrk_sw/termTopic" format="dita"
+            >topics</xref>, delivered in online postings over the entire semester. The number of
+            <xref href="../lessons/lesson_descriptions.dita#concept_wk5_lkc_bx">lessons</xref> per
+          semester depends on whether the semester is a <xref
+            href="../schedules/regular_semester.dita#concept_ilt_mjk_sw">regular semester</xref>,
+            <xref href="../schedules/summer_session.dita#concept_r31_pjk_sw">summer session</xref>,
+          or <xref href="../schedules/winter_session.dita#concept_u5b_sjk_sw">winter session</xref>.
+          For example, typically a regular semester has one lesson posted per week while the winter
+          session has one lesson posted per weekday.</dd>
+    </dlentry>
+  </dl>
+   <dl>
+     <dlentry>
+       <dt id="termModule">module</dt>
+       <dd>The online mechanism in <xref href="#concept_ldw_hrk_sw/termCanvas" format="dita"
+            >Canvas</xref> that allows you to organize and deliver <xref
+            href="#concept_ldw_hrk_sw/termLesson" format="dita">lessons</xref>.</dd>
+     </dlentry>
+   </dl>
+   <dl>
+     <dlentry>
+       <dt id="termTLOS">Technology-enhanced Learning and Online Strategies (TLOS)</dt>
+       <dd>A Virginia Tech organization that provides training and resources for faculty and
+          students engaged in technology-based activities. They are a resource that can help in your
+          online teaching efforts. You can obtain more information about TLOS at <xref
+            href="https://tlos.vt.edu/" format="html" scope="external"
+          >https://tlos.vt.edu/</xref>.</dd>
+     </dlentry>
+   </dl>
+   <dl>
+   <dlentry>
+    <dt id="termTopic">topic</dt>
+    <dd>A specific subject taught within the <xref href="#concept_ldw_hrk_sw/termCourse"
+            format="dita">course</xref>. One or more topics could be covered in the same <xref
+            href="#concept_ldw_hrk_sw/termLesson" format="dita">lesson</xref>. For example,
+          proposals and recommendation reports are two separate topics; however, both could be
+          presented in the same lesson depending on the class schedule.</dd>
+   </dlentry>
+  </dl>
+ </conbody>
+</concept>

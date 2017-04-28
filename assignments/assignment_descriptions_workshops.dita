@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_db4_h2r_dx">
+ <title>Workshops</title>
+ <shortdesc>Workshops (peer reviews) require students to review, edit, and provide feedback on
+  written work from fellow students. They typically carry a weight similar to papers.</shortdesc>
+ <conbody>
+  <p>Workshops are graded <xref href="assignment_descriptions.dita#concept_rfl_wzp_rw"
+    >assignments</xref>, but they do not carry as much weight as <xref
+    href="assignment_descriptions_papers.dita#concept_ev5_1dr_dx">papers</xref> and <xref
+    href="assignment_descriptions_projects.dita#concept_qsg_ddr_dx">projects</xref>. As such, the
+   grade weight for all workshops could be less than these other assignments. For example, if major
+   projects are collectively worth 30% of the final grade and papers are collectively worth 15% of
+   the final grade, then workshops could be collectively worth 10% of the final grade.</p>
+ </conbody>
+</concept>

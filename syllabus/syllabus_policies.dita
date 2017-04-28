@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_f1m_nx3_1y">
+ <title>Policies</title>
+ <shortdesc>The syllabus should contain all of the policies for the class.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies includes:<ul id="ul_xgz_dcj_1y">
+    <li>A high-level section overview that leads into all of the policy subsections</li>
+    <li>Multiple subsections, one subsection for each policy</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Policies</b></p>
+   <p>The only way for me to manage this course fairly and objectively is to follow the policies of
+    this syllabus consistently and unequivocally for every student, regardless of circumstances.</p>
+  </example>
+ </conbody>
+</concept>

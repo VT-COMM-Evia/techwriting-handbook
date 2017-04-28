@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_k1b_qxq_dx">
+ <title>Overview of Content</title>
+ <shortdesc>This handbook provides guidelines for teaching the online version (virtual campus) of
+    ENGL 3764: Technical Writing and includes specific examples you can use or modify to meet the
+    needs of your specific classes.</shortdesc>
+ <conbody>
+  <p><note>This handbook provides only <b>guidelines</b> to help teach your online classes. You are
+          <b>not</b> required to use the lessons, tools, assignments, and other resources described
+        in this handbook to teach your classes. While graduate teaching assistants (GTAs) and other
+        instructors new to teaching this course might choose to use all components in their
+        entirety, experienced instructors might decide their classes operate effectively in their
+        current format without using components from this handbook.</note>This handbook provides the
+      following information to assist in teaching your course:<ul id="ul_jjw_dyq_dx">
+        <li><xref href="about_course.dita#concept_bz3_n1p_rw">Foundational course information</xref>
+          such as descriptions, learning objectives, and cornerstones of the course</li>
+        <li><xref href="../resources/tools_resources.dita#concept_qjg_rxp_rw">Suggested tools and
+            resources</xref> for developing lectures and managing the course in an online
+          environment</li>
+        <li><xref href="../coursecomponents/course_components.dita#concept_j2p_2yp_rw">Course
+            components</xref> that comprise a complete virtual classroom for this course</li>
+        <li><xref href="../lessons/lesson_descriptions.dita#concept_wk5_lkc_bx">Lesson
+            descriptions</xref> that cover appropriate technical writing topics for this course</li>
+                <li><xref href="../exercises/exercise_descriptions.dita#concept_afl_ncr_dx">Exercise
+                        descriptions</xref> that support topics covered in lesson descriptions</li>
+        <li><xref href="../assignments/assignment_descriptions.dita#concept_rfl_wzp_rw">Assignment
+                        descriptions</xref> for graded papers and projects based on technical
+                    writing genres</li>
+        <li><xref href="../schedules/course_schedules.dita#concept_ar5_n1q_rw">Semester
+            schedules</xref> that explain the timing of courses for different semester types</li>
+                <li><xref href="../quickrefs/quick_refs.dita#concept_umd_y1q_rw">Quick reference
+                        schedules</xref> to help set the pace and timeframe for delivering
+                    lessons</li>
+                <li><xref href="../syllabus/syllabus_components.dita#concept_jvk_ssr_dx">Syllabus
+                        components</xref> to help with creating a class syllabus</li>
+                <li><xref href="../syllabus/example_syllabus_overview.dita#concept_qty_nn4_1y"
+                        >Syllabus example</xref> that you can use as a starting template for a
+                    syllabus</li>
+        <li><xref href="../checklists/instructor_checklists.dita#concept_pw1_g1q_rw">Instructor
+            checklists</xref> that provide specific steps for setting up and managing a class in an
+          online environment</li>
+      </ul></p>
+ </conbody>
+</concept>

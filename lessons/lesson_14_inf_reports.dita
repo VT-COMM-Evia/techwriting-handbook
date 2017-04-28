@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jyz_qvh_1y">
+  <title>Lesson 14: Informational Reports</title>
+  <shortdesc>Lesson 14 teaches informational reports such as progress, status, and incident reports
+    and allows students time to work on their final white paper draft and oral
+    presentation.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_fbg_zvh_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_abx_q42_sz">
+            <li>Compare forms used for writing informational reports.</li>
+            <li>Apply concepts learned through entirety of course to design and write a white paper
+              and create an oral presentation.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Chapter 12:</b> Writing Informational Reports</stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>Informational reports:</b> Concepts, strategies, and forms used for writing
+          informational reports such as progress, status, and incident reports<p><b>Final project
+              work:</b> Allocated time for students to work on their <xref
+              href="../assignments/project_white_paper.dita#concept_lw3_ddq_fx">white paper</xref>
+            and <xref
+              href="../assignments/assignment_descriptions_presentations.dita#concept_wpk_m2r_dx"
+              >oral presentation</xref></p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

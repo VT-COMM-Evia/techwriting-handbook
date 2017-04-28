@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_j24_vwh_1y">
+  <title>Lesson 15: Wrap-up</title>
+  <shortdesc>Lesson 15 provides a period for you to have an open discussion about any remaining
+    technical writing concepts, field class-specific questions and answers before the semester ends,
+    and collect final projects and presentations.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_dxs_dxh_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_fhn_x42_sz">
+            <li>Discuss questions and issues related to technical writing.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry>
+          <p><b>Wrap-up:</b> Wrap-up for any remaining issues</p>
+          <p><b>Final questions and answers:</b> Question and answer period for you to answer any
+            class-specific questions  (requires that you first ask students to post open questions
+            for you to answer)</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

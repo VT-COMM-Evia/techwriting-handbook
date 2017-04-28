@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xbr_5wr_dx">
+ <title>Use of Written Work by the Department of English</title>
+ <shortdesc>Students must understand that the Department of English may use their work anonymously
+  in its assessment of its teaching and learning goals.</shortdesc>
+ <conbody>
+  <note type="important">This is required content for your syllabus. The included example suffices
+   for the content required in your syllabus.</note>
+  <p>The relevant information for this statement could be included as a subsection to the <xref
+    href="syllabus_policies_assignments.dita#concept_vx4_qk4_1y">assignments subsection</xref> (in
+   the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies section</xref>) and
+    includes:<ul id="ul_v22_bbl_sw">
+    <li>A statement that the Department of English may use their work anonymously for assessment
+     purposes</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Use of Written Work by the Department of English</b></p>
+   <p>The Department of English may use your written work in its assessment of its teaching and
+    learning goals. In such cases, your name will be removed and your work assessed anonymously.
+    Your work will not be shared with any individual outside of the department. It will be used
+    strictly to help the department offer students the best possible academic experience.</p>
+  </example>
+ </conbody>
+</concept>

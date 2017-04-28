@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_mmx_fxp_rw">
+ <title>Closed Captions</title>
+ <shortdesc>All teaching materials that include sound, such as screencasts and other videos, must be
+  closed captioned to ensure students with hearing disabilities have access to the audible
+  content.</shortdesc>
+ <conbody>
+  <p>While videos and screencasts are effective modes for delivering lectures online, remember that
+   students with hearing disabilities will only see the content and not be able to hear the
+   corresponding audio. While adding text inside the video itself is useful in helping such students
+   understand the video's content, you must provide closed captions in the video to allow students
+   to read the words that are spoken in the video.</p>
+  <p><xref href="../resources/elearning_dev_program.dita#concept_vnz_jwc_dx">E-learning development
+    programs</xref> such as <xref href="http://www.adobe.com/products/captivate.html" format="html"
+    scope="external">Adobe Captivate</xref> and <xref href="https://www.techsmith.com/camtasia.html"
+    format="html" scope="external">Techsmith Camtasia</xref> provide functionality that allows you
+   to insert closed captioning into your videos. <xref
+    href="../about/about_definitions.dita#concept_ldw_hrk_sw/termTLOS">TLOS</xref> can help if you
+   need more information and resources for closed captioning your lectures.</p>
+ </conbody>
+</concept>

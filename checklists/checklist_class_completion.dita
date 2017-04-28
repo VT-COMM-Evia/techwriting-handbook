@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_w4z_fkk_by">
+  <title>Checklist: Class Completion</title>
+  <shortdesc>This checklist guides instructors through final tasks when completing their ENGL 3764
+    online class.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 4.0*" id="simpletable_bhx_jkk_by">
+      <sthead>
+        <stentry>Timeframe</stentry>
+        <stentry>Task</stentry>
+      </sthead>
+      <strow>
+        <stentry>Deadline Established for Semester by University</stentry>
+        <stentry>Have students perform SPOT evaluations.<note>The university hosts the website for
+            SPOT evaluations and provides availability dates and deadlines for each
+          semester.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Between Final Lesson and End of Semester</stentry>
+        <stentry>Grade and post feedback for final projects/papers.</stentry>
+      </strow>
+      <strow>
+        <stentry>Between Final Lesson and End of Semester</stentry>
+        <stentry>Send <xref href="../coursecomponents/announcements.dita#concept_kjw_nyp_rw"
+            >completion email</xref> to students as a "goodbye" and formal closure of the
+          class.</stentry>
+      </strow>
+      <strow>
+        <stentry>Deadline Established for Semester by University</stentry>
+        <stentry>Post final grades through HokieSpa.<note>The Department of English and the
+            university in general send out announcements to inform faculty of the submission
+            deadline for each semester.</note></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

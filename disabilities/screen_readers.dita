@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_wrz_bxp_rw">
+ <title>Screen Readers</title>
+ <shortdesc>All teaching materials that include visual content, must be accessible to students with
+  visual disabilities.</shortdesc>
+ <conbody>
+  <p>Browser-based content, such as HTML and PDF files, must be developed in a manner that allows
+   automated screen readers to read the content to students with visual disabilities. This applies
+   both to content you create and to content you reuse from other resources. Modern screen readers
+   can read standard content in an HTML file, which means <xref
+    href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> functionality and content is
+   already accessible. However, if you create your own web-based content, you must ensure the markup
+   is readable by screen readers. This includes adding meaningful content to "alt" attributes in
+   image tags and structuring HTML sections in a manner that provides a logical sequence for reading
+   by an automated device. For example, if you were to include a lot of overhead content such as
+   links and logos at the top of a web page, it is easy enough for students without visual
+   disabilities to just scan past the content. However, an automated screen reader would read all of
+   the content to the student, forcing the student to sit through it until getting to the main
+   content.</p>
+  <p>In addition to ensuring markup is accessible in HTML files, you must also ensure PDF content is
+   accessible. Automated screen readers can typically read documents created in Microsoft Word and
+   then saved as PDF; however, you must ensure you are using Word's <b>Save as Adobe PDF</b> feature
+   as opposed to printing to a PDF source. Word's <b>Save as Adobe PDF</b> feature generates PDFs in
+   a manner that allows for automated screen reading.</p>
+  <p>Be sure your PDFs are not based on a scanned image or document because the content in the PDF
+   will appear to the screen reader as an image. At a minimum, ensure your scanning software
+   supports optical character recognition (OCR), and use the OCR feature when scanning documents so
+   that the scanning process converts the scanned item to text. This will then allow screen readers
+   to read the actual text in the PDF.</p>
+  <p>Screencasts and other videos may or may not need support for automated screen readers. If you
+   create the video in a manner in which a narrator discusses the content the student would see on
+   the screen, then your audio portion of the video would be functioning as the screen reader.
+   Again, it is important that you ensure any videos you use from other sources meet these same
+   audio requirements.</p>
+ </conbody>
+</concept>

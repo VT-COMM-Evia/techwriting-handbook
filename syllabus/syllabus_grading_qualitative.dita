@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_eqj_pr3_1y">
+ <title>Qualitative Grading</title>
+ <shortdesc>Because written papers are qualitative in nature, some instructors prefer to grade them
+  based on a letter grade (as opposed to a quantitative number). If you want to have content that
+  explains how qualitative grading may work with regard to written deliverables, you can include
+  such a section.</shortdesc>
+ <conbody>
+  <p>You could include the following information as a subsection to the <xref
+    href="syllabus_grading.dita#concept_nxr_n43_1y">grading section</xref> to explain quantitative
+   grading as it may apply to graded deliverables:<ul id="ul_jc2_cs3_1y">
+    <li>A statement that qualitative grading is applied to written work</li>
+    <li>A matrix that maps letter grades to numeric grades</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Qualitative Grading</b></p>
+   <p>Because projects and papers are qualitative, I grade them using <b>letter grades</b>. However,
+    because the final grade is based on a quantitative score, I must convert the letter grade to an
+    equivalent numeric grade to use in each component’s scoring formula. The following table shows
+    the equivalent numeric grade I use for each letter grade:<simpletable frame="all"
+     relcolwidth="1.0* 1.0*" id="simpletable_dbp_xs3_1y">
+     <sthead>
+      <stentry>Letter Grade</stentry>
+      <stentry>Numeric Grade</stentry>
+     </sthead>
+     <strow>
+      <stentry>A+</stentry>
+      <stentry>100</stentry>
+     </strow>
+     <strow>
+      <stentry>A</stentry>
+      <stentry>96</stentry>
+     </strow>
+     <strow>
+      <stentry>A-</stentry>
+      <stentry>92</stentry>
+     </strow>
+     <strow>
+      <stentry>B+</stentry>
+      <stentry>89</stentry>
+     </strow>
+     <strow>
+      <stentry>B</stentry>
+      <stentry>86</stentry>
+     </strow>
+     <strow>
+      <stentry>B-</stentry>
+      <stentry>82</stentry>
+     </strow>
+     <strow>
+      <stentry>C+</stentry>
+      <stentry>79</stentry>
+     </strow>
+     <strow>
+      <stentry>C</stentry>
+      <stentry>76</stentry>
+     </strow>
+     <strow>
+      <stentry>C-</stentry>
+      <stentry>72</stentry>
+     </strow>
+     <strow>
+      <stentry>D+</stentry>
+      <stentry>69</stentry>
+     </strow>
+     <strow>
+      <stentry>D</stentry>
+      <stentry>66</stentry>
+     </strow>
+     <strow>
+      <stentry>D-</stentry>
+      <stentry>62</stentry>
+     </strow>
+     <strow>
+      <stentry>F</stentry>
+      <stentry>0</stentry>
+     </strow>
+    </simpletable></p>
+  </example>
+ </conbody>
+</concept>

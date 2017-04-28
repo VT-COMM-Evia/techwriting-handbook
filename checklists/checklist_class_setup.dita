@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_vgs_mns_bx">
+  <title>Checklist: Class Setup</title>
+  <shortdesc>This checklist guides instructors through setting up their ENGL 3764 online
+    class.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 4.0*" id="simpletable_qbj_d4s_bx">
+      <sthead>
+        <stentry>Timeframe</stentry>
+        <stentry>Task</stentry>
+      </sthead>
+      <strow>
+        <stentry>Prior Semester</stentry>
+        <stentry>Work with the <xref href="../about/contacts_roles.dita#reference_m1y_rkw_rw"
+            >Director of Professional and Technical Writing</xref> to ensure you are listed with
+          your class in course registration with a course description, as needed.</stentry>
+      </strow>
+      <strow>
+        <stentry>Prior Semester</stentry>
+        <stentry>Submit a <xref href="../coursecomponents/books_refs.dita#concept_ic3_kyp_rw"
+            >textbook order</xref> with the bookstore.</stentry>
+      </strow>
+      <strow>
+        <stentry>Prior Semester</stentry>
+        <stentry>Verify a <xref href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas course</xref>
+          has been made available with registered students.</stentry>
+      </strow>
+      <strow>
+        <stentry>Up to One Week Before Classes Start</stentry>
+        <stentry>Write a <xref href="../syllabus/syllabus_components.dita#concept_jvk_ssr_dx"
+            >syllabus</xref> for the class (you can use a <xref
+            href="../syllabus/example_syllabus.dita#concept_pmt_gsr_dx">syllabus example</xref> as a
+          starting template if necessary). Also consider writing a <xref
+            href="../quickrefs/quick_refs.dita#concept_umd_y1q_rw">quick reference schedule</xref>
+          as a supplement to the syllabus.</stentry>
+      </strow>
+      <strow>
+        <stentry>Up to One Week Before Classes Start</stentry>
+        <stentry>Build, edit, and complete the Canvas site for the class. Publish it when
+            ready.<note class="- topic/note " type="tip">If you are re-using an existing course as a
+            template, be sure to adjust all dates and times (for example, deadlines or lesson
+            release times) to match the dates and times for your class.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Week Before Classes Start</stentry>
+        <stentry>Send <xref href="../coursecomponents/announcements.dita#concept_kjw_nyp_rw">welcome
+            email</xref> to registered students to prepare them for the class.</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

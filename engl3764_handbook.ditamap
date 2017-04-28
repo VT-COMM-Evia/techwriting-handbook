@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Virginia Tech ENGL 3764: Technical Writing (Virtual Classroom) Instructor
+            Handbook</mainbooktitle>
+    </booktitle>
+    
+    <frontmatter>
+        <booklists>
+            <toc/>
+           
+        </booklists>
+    </frontmatter>
+    
+    <chapter href="about/about_handbook.dita">
+        <topicref href="about/about_content_overview.dita"/>
+    <topicref href="about/contacts_roles.dita"/>
+    <topicref href="about/about_definitions.dita"/>
+    </chapter>
+    <chapter href="about/about_course.dita">
+        <topicref href="about/about_course_catalog_descr.dita"/>
+        <topicref href="about/about_course_reg_descr.dita"/>
+        <topicref href="about/about_course_objectives.dita"/>
+        <topicref href="cornerstones/cornerstones_curriculum.dita">
+            <topicref href="cornerstones/cornerstones_gen_writing_mech.dita"/>
+            <topicref href="cornerstones/cornerstones_concepts.dita"/>
+            <topicref href="cornerstones/cornerstones_creating_docs.dita"/>
+        </topicref>
+    </chapter>
+    <chapter href="resources/tools_resources.dita">
+        <topicref href="resources/lms.dita"/>
+        <topicref href="resources/elearning_dev_program.dita"/>
+        <topicref href="resources/google_drive_apps.dita">
+            <topicref href="resources/google_drive.dita"/>
+            <topicref href="resources/google_docs.dita"/>
+            <topicref href="resources/google_slides.dita"/>
+        </topicref>
+        <topicref href="resources/chat.dita">
+            <topicref href="resources/chat_text.dita"/>
+            <topicref href="resources/chat_voice.dita"/>
+            <topicref href="resources/chat_video.dita"/>
+        </topicref>
+        <topicref href="disabilities/accessibilty_disabilities.dita">
+            <topicref href="disabilities/screen_readers.dita"/>
+            <topicref href="disabilities/captions.dita"/>
+            <topicref href="disabilities/scripts.dita"/>
+            <topicref href="disabilities/other_disabilities.dita"/>
+        </topicref>
+    </chapter>
+    <chapter href="coursecomponents/course_components.dita">
+        <topicref href="coursecomponents/lesson_modules.dita"/>
+        <topicref href="coursecomponents/books_refs.dita">
+            <topicref href="coursecomponents/books_refs_textbooks.dita"/>
+            <topicref href="coursecomponents/books_refs_writing_refs.dita"/>
+        </topicref>
+        <topicref href="coursecomponents/calendar.dita"/>
+        <topicref href="coursecomponents/announcements.dita">
+            <topicref href="coursecomponents/announcements_example_initial.dita"/>
+            <topicref href="coursecomponents/announcements_example_lesson_first.dita"/>
+            <topicref href="coursecomponents/announcements_example_lesson_standard.dita"/>
+        </topicref>
+        <topicref href="coursecomponents/tests_quizzes.dita"/>
+        <topicref href="coursecomponents/lectures.dita"/>
+        <topicref href="coursecomponents/exercises.dita"/>
+        <topicref href="coursecomponents/assignments.dita"/>
+        <topicref href="coursecomponents/discussions.dita"/>
+    </chapter>
+    <chapter href="lessons/lesson_descriptions.dita">
+        <topicref href="lessons/lesson_01_intro_corr_grammar.dita"/>
+        <topicref href="lessons/lesson_02_collab_descr_edit.dita"/>
+        <topicref href="lessons/lesson_03_ethics_style_workshop1.dita"/>
+        <topicref href="lessons/lesson_04_graphics_instr_safety.dita"/>
+        <topicref href="lessons/lesson_05_design_layout.dita"/>
+        <topicref href="lessons/lesson_06_proposal_workshop2.dita"/>
+        <topicref href="lessons/lesson_07_rec_rpt.dita"/>
+        <topicref href="lessons/lesson_08_aud_purp_research.dita"/>
+        <topicref href="lessons/lesson_09_online_content.dita"/>
+        <topicref href="lessons/lesson_10_job_app.dita"/>
+        <topicref href="lessons/lesson_11_white_paper.dita"/>
+        <topicref href="lessons/lesson_12_oral_pres_localization.dita"/>
+        <topicref href="lessons/lesson_13_workshop3.dita"/>
+        <topicref href="lessons/lesson_14_inf_reports.dita"/>
+        <topicref href="lessons/lesson_15_wrapup.dita"/>
+    </chapter>
+    <chapter href="exercises/exercise_descriptions.dita">
+        <topicref href="exercises/exercise_introduction.dita"/>
+        <topicref href="exercises/exercise_claim_letter.dita"/>
+        <topicref href="exercises/exercise_extended_definition.dita"/>
+        <topicref href="exercises/exercise_grammar.dita"/>
+        <topicref href="exercises/exercise_instructions.dita"/>
+        <topicref href="exercises/exercise_proposal_summary.dita"/>
+        <topicref href="exercises/exercise_letter_project_understanding_report.dita"/>
+        <topicref href="exercises/exercise_audience_assessment.dita"/>
+        <topicref href="exercises/exercise_research_sources.dita"/>
+        <topicref href="exercises/exercise_letter_project_understanding_white_paper.dita"/>
+    </chapter>
+    <chapter href="assignments/assignment_descriptions.dita">
+        <topicref href="assignments/assignment_descriptions_papers.dita">
+            <topicref href="assignments/paper_description_doc.dita"/>
+            <topicref href="assignments/paper_instructions.dita"/>
+            <topicref href="assignments/paper_cover_letter.dita"/>
+        </topicref>
+        <topicref href="assignments/assignment_descriptions_projects.dita">
+            <topicref href="assignments/project_formal_report.dita"/>
+            <topicref href="assignments/project_white_paper.dita"/>
+        </topicref>
+        <topicref href="assignments/assignment_descriptions_workshops.dita">
+            <topicref href="assignments/workshop_description_doc.dita"/>
+            <topicref href="assignments/workshop_instructions.dita"/>
+            <topicref href="assignments/workshop_white_paper.dita"/>
+        </topicref>
+        <topicref href="assignments/assignment_descriptions_presentations.dita">
+            <topicref href="assignments/presentation_white_paper_topic.dita"/>
+        </topicref>
+    </chapter>
+    <chapter href="schedules/course_schedules.dita">
+        <topicref href="schedules/regular_semester.dita"/>
+        <topicref href="schedules/summer_session.dita"/>
+        <topicref href="schedules/winter_session.dita"/>
+        <topicref href="schedules/holidays.dita"/>
+        <topicref href="schedules/lesson_posting_times.dita"/>
+    </chapter>
+    <chapter href="quickrefs/quick_refs.dita">
+        <topicref href="quickrefs/quickref_reg_semester.dita"/>
+        <topicref href="quickrefs/quickref_summer_session.dita"/>
+        <topicref href="quickrefs/quickref_winter_session.dita.dita"/>
+    </chapter>
+    <chapter href="syllabus/syllabus_components.dita">
+        <topicref href="syllabus/syllabus_definition.dita"/>
+        <topicref href="syllabus/syllabus_instructor.dita"/>
+        <topicref href="syllabus/syllabus_textbook_resources.dita"/>
+        <topicref href="syllabus/syllabus_overview.dita">
+            <topicref href="syllabus/syllabus_overview_accelerated.dita"/>
+        </topicref>
+        <topicref href="syllabus/syllabus_objectives.dita"/>
+        <topicref href="syllabus/syllabus_spot.dita"/>
+        <topicref href="syllabus/syllabus_grading.dita">
+            <topicref href="syllabus/syllabus_grading_qualitative.dita"/>
+            <topicref href="syllabus/syllabus_grading_components.dita"/>
+            <topicref href="syllabus/syllabus_grading_final.dita"/>
+        </topicref>
+        <topicref href="syllabus/syllabus_deadlines.dita"/>
+        <topicref href="syllabus/syllabus_policies.dita">
+            <topicref href="syllabus/syllabus_policies_syllabus_change.dita"/>
+            <topicref href="syllabus/syllabus_policies_attendance.dita"/>
+            <topicref href="syllabus/syllabus_policies_professionalism.dita">
+                <topicref href="syllabus/syllabus_principles_community.dita"/>
+            </topicref>
+            <topicref href="syllabus/syllabus_policies_assignments.dita">
+                <topicref href="syllabus/syllabus_policies_assignments_method.dita"/>
+                <topicref href="syllabus/syllabus_policies_assignments_deadlines.dita"/>
+                <topicref href="syllabus/syllabus_policies_grade_feedback.dita"/>
+                <topicref href="syllabus/syllabus_use_of_work.dita"/>
+            </topicref>
+            <topicref href="syllabus/syllabus_academic_honesty.dita"/>
+            <topicref href="syllabus/syllabus_policies_online_classes.dita"/>
+        </topicref>
+        <topicref href="syllabus/syllabus_disability_accommodations.dita"/>
+        <topicref href="syllabus/syllabus_schedule.dita">
+            <topicref href="syllabus/syllabus_schedule_lesson.dita"/>
+        </topicref>
+    </chapter>
+    <chapter href="syllabus/example_syllabus_overview.dita">
+        <topicref href="syllabus/example_syllabus.dita"/>
+    </chapter>
+    <chapter href="checklists/instructor_checklists.dita">
+        <topicref href="checklists/checklist_class_setup.dita"/>
+        <topicref href="checklists/checklist_class_completion.dita"/>
+    </chapter>
+    
+    
+</bookmap>

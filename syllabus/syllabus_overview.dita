@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_yqk_dbs_dx">
+ <title>Overview</title>
+ <shortdesc>The syllabus should provide an expanded description of the course.</shortdesc>
+ <conbody>
+  <p>The relevant information for the overview includes:<ul id="ul_vxd_lbs_dx">
+    <li>The instructor's own description of the course, which may be the same as the <xref
+      href="../about/about_course_reg_descr.dita#concept_pfj_3cp_rw">course registration
+      description</xref></li>
+   </ul></p>
+  <p>
+   <note>If the class is conducted during an accelerated <xref
+     href="../schedules/summer_session.dita#concept_r31_pjk_sw">summer</xref> or <xref
+     href="../schedules/winter_session.dita#concept_u5b_sjk_sw">winter</xref> session, the overview
+    should include a <xref href="syllabus_overview_accelerated.dita#concept_rdd_dds_dx">subsection
+     with a statement about the intensity of an accelerated writing course</xref></note>
+  </p>
+  <example>
+   <title>Example</title>
+   <p><b>Overview</b></p>
+   <p>Technical writing encompasses a wide range of writing genres including reports, proposals,
+    correspondence (memos and letters), user documentation (instructions), and many others. The
+    distribution media for these documents are equally vast including print, email, web (including
+    different device types), and more.</p>
+   <p>This course will introduce you to these genres and distribution media and give you the
+    opportunity to explore and write documents of different genres in a constructive environment.
+    You will learn how to assess your audience, plan technical writing projects, research subject
+    matter, structure and organize content, write document drafts, edit existing content, and
+    prepare final documents.</p>
+   <p>Classes will include a mixture of lecture, examples, workshops, and exercises to help you
+    understand the craft and allow you to practice your newly acquired technical writing skills.
+    Smaller exercises will help you build specific skills that you can directly apply to your larger
+    writing projects, which will include writing technical documents of different genres.</p>
+   <p>This is a writing-intensive course that will require you to write every day, but you will
+    leave the course feeling confident in your writing skills and in your ability to write within
+    technical and professional environments.</p>
+  </example>
+ </conbody>
+</concept>

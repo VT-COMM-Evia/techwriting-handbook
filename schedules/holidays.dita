@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xx2_llk_sw">
+ <title>Holidays</title>
+ <shortdesc>University holidays affect how you might post lessons during the semester.</shortdesc>
+ <conbody>
+    <section id="section_adv_2vd_lx">
+      <title>Regular Semester Holidays</title>
+      <p>University holidays during the <xref href="regular_semester.dita#concept_ilt_mjk_sw"
+          >regular semester</xref> often fall on a Monday, making Tuesday the better day for posting
+        weekly lessons. In general, if any lesson-posting day falls on a university holiday, the
+        lesson should be posted the next day the university is open. No lessons are posted for
+        week-long breaks such as Thanksgiving and spring break. Snow days are <b>not</b> university
+        holidays, and lessons therefore should be posted even if the university closes for snow or
+        other reasons.</p>
+    </section>
+    <section id="section_brn_hvd_lx">
+      <title>Summer Session Holidays</title>
+      <p>Typically, the only holiday to manage during the <xref
+          href="summer_session.dita#concept_r31_pjk_sw">summer sessions</xref> is Memorial Day,
+        which means simply not posting a lesson on that day. Fourth of July is usually between the
+        two summer sessions and therefore does not pose a scheduling issue.</p>
+    </section>
+    <section id="section_xth_jvd_lx">
+      <title>Winter Session Holidays</title>
+      <p>The <xref href="winter_session.dita#concept_u5b_sjk_sw">winter session</xref> begins after
+        Christmas, leaving New Year's Eve and New Year's Day as the only holidays to consider when
+        posting lessons. Because of the condensed time period in the winter session, you should post
+        a lesson on New Year's Eve (assuming it falls on a weekday), allowing you the flexibility to
+        skip a posting on New Year's Day (recommended). If New Year's Day falls on a weekday and you
+        skip posting a lesson, you may have to post a lesson on a Saturday to fit all 15 lessons
+        into the semester. </p>
+    </section>
+ </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_jvk_ssr_dx">
+ <title>Syllabus Components</title>
+ <shortdesc>A comprehensive syllabus should include components that clearly explain to students the
+  policies, deliverables, and schedule for the course.</shortdesc>
+ <conbody>
+  <p>The sections provided here describe specific sections you should consider including in your
+      course syllabus. You can use them to create your course syllabus, or modify them to meet
+      specific needs for your course. These sections are the basis for the sections in this
+      handbook's <xref href="example_syllabus.dita#concept_pmt_gsr_dx">example syllabus</xref>.<note
+        type="important">While you are free to create your syllabus as you deem appropriate for your
+        course, Virginia Tech and the Department of English require you to include the following
+        sections with specific content requirements:<ul id="ul_q1r_ktr_dx">
+          <li><xref href="syllabus_principles_community.dita#concept_z1t_swr_dx">Principles of
+              community</xref></li>
+          <li><xref href="syllabus_use_of_work.dita#concept_xbr_5wr_dx">Use of written work by the
+              Department of English</xref></li>
+          <li><xref href="syllabus_academic_honesty.dita#concept_mkz_wwr_dx">Academic
+            honesty</xref></li>
+          <li><xref href="syllabus_disability_accommodations.dita#concept_z4x_ywr_dx">Disability
+              accommodations</xref></li>
+        </ul></note></p>
+ </conbody>
+</concept>

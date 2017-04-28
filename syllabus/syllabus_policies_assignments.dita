@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_vx4_qk4_1y">
+ <title>Assignments</title>
+ <shortdesc>The syllabus should explain all policies about the submission and grading of
+    assignments.</shortdesc>
+ <conbody>
+  <p>The relevant information for assignment policies could be included as a subsection to the <xref
+        href="syllabus_policies.dita#concept_f1m_nx3_1y">policies section</xref> and should
+        include:<ul id="ul_y35_vt4_1y">
+        <li>A brief statement of assignment types in the class</li>
+        <li>Subsections that explain your policies about the submission and grading of
+          assignments</li>
+      </ul></p>
+    <example>
+      <title>Example</title>
+      <p><b>Assignments</b></p>
+      <p>In addition to reading assignments (discussed in the <xref
+          href="syllabus_schedule.dita#concept_scv_hm4_1y">Schedule</xref> section), there are
+        quizzes/tests, projects, papers, workshops, and exercises that you must submit for a grade
+        or completion credit (discussed in the <xref href="syllabus_grading.dita#concept_nxr_n43_1y"
+          >Grading</xref> section).</p>
+    </example>
+ </conbody>
+</concept>

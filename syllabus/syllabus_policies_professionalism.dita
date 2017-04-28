@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_xgg_fk4_1y">
+ <title>Etiquette and Professionalism</title>
+ <shortdesc>The syllabus should explain expectations for behavior and involvement in the
+    class.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies on etiquette and professionalism could be included as a
+      subsection to the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies
+        section</xref> and should include:<ul id="ul_x4t_1t4_1y">
+        <li>A statement that explains your expectations with regard to involvement and treatment of
+          other students</li>
+      </ul></p>
+    <example>
+      <title>Example</title>
+      <p><b>Etiquette and Professionalism</b></p>
+      <p>I expect everyone to treat each other with courtesy, respect, and professionalism,
+        especially when working in workshops, project groups, and exercise groups. If you have a
+        disagreement with another person in your group, try to resolve it respectfully and
+        professionally. If you cannot resolve the disagreement, then ask me to join the
+        conversation, and I will help you resolve the issue. Your class etiquette and
+        professionalism are reflected in your exercises and participation grade (discussed in the
+          <xref href="syllabus_grading.dita#concept_nxr_n43_1y">Grading</xref> section).</p>
+    </example>
+ </conbody>
+</concept>

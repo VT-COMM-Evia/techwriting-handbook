@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_png_yk4_1y">
+ <title>Deadlines</title>
+ <shortdesc>The syllabus should explain your policies on deadlines and the time zone for those
+  deadlines in case students are in a different geographic location.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies on assignment deadlines could be included as a subsection
+   to the <xref href="syllabus_policies_assignments.dita#concept_vx4_qk4_1y">assignments
+    subsection</xref> (in the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies
+    section</xref>) and includes:<ul id="ul_vvp_vw4_1y">
+    <li>A statement that explains your policies on deadlines for assignments</li>
+    <li>The time zone you use for deadlines</li>
+    <li>What to do if the <xref href="../resources/lms.dita#concept_oqy_5xp_rw">learning management
+      system</xref> is down, thus preventing assignment uploads</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Deadlines</b></p>
+   <p>The <xref href="syllabus_deadlines.dita#concept_rk3_g4b_hx">Writing Assignment
+     Deadlines</xref> section contains the date and time each writing assignment is due (including
+    workshops). Deadlines for tests and quizzes are posted with each test/quiz in Canvas and are
+    also listed with their corresponding assignment due dates in the <xref
+     href="syllabus_schedule.dita#concept_scv_hm4_1y">Schedule</xref> section. Deadlines for
+    exercises are due by the deadline posted within the corresponding exercise assignment in
+    Canvas.</p>
+   <p>Canvas stops allowing assignment uploads at the deadline for the assignment. All deadline date
+    and times are based on the <b>eastern time zone</b>. Do not wait until the last minute to submit
+    your assignment, as you never know when a slow network connection or other problem might cause
+    your submission to miss the deadline.</p>
+   <p>If you have a problem accessing Canvas, I will allow you to email the assignment to me. In
+    such a case, I will use the time I receive your email to determine whether or not an assignment
+    has met its deadline.</p>
+   <p><b>I strongly encourage you to submit your assignments early. <u>Do not wait</u> until the
+     deadline.</b></p>
+  </example>
+ </conbody>
+</concept>

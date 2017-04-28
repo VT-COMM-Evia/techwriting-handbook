@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ycl_nxp_rw">
+ <title>Other Considerations</title>
+ <shortdesc>Students with disabilities must provide instructors with documentation from the Services
+  for Students with Disabilities (SSD) office. If a student provides documentation for a disability,
+  and you are unsure how to manage it. Contact the SSD office for assistance.</shortdesc>
+ <conbody>
+  <p>You might have students who require additional time for <xref
+    href="../coursecomponents/tests_quizzes.dita#concept_ugm_5yp_rw">tests and quizzes</xref>. If
+   you limit the allowed time to complete a test or quiz, you will have to update the <xref
+    href="../resources/lms.dita#concept_oqy_5xp_rw">learning management system</xref> to allow for
+   additional time for any students with a documented disability that requires the extra time. For
+   example, if a test is set up to allow 30 minutes to complete after the student begins, you will
+   have to update the disabled student's version to allow for 60 minutes.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_afl_ncr_dx">
+ <title>Exercise Descriptions</title>
+ <shortdesc>Exercises are low-risk deliverables that help students get comfortable with new concepts
+  and, in some cases, give students a starting point to build up to the larger assignments they must
+  submit for grades in the course.</shortdesc>
+ <conbody>
+  <p>The exercises discussed in this section support the suggested <xref
+    href="../lessons/lesson_descriptions.dita#concept_wk5_lkc_bx">lessons</xref> for this course.
+   While there is not a matching exercise for every lesson described in this handbook, the exercises
+   discussed here provide a balance of student work across most of the course lessons.</p>
+  <p>Because this course is delivered online, it is critical to provide detailed instructions for
+   students to complete each exercise. The exercises provided here include suggested descriptions
+   that you can use as is or modify as needed.</p>
+  <p>Exercises should be lower risk than <xref
+    href="../assignments/assignment_descriptions.dita#concept_rfl_wzp_rw">assignments</xref> and
+   thus typically do not receive an individual grade other than "completed" or "not completed." To
+   have their exercise marked as "completed," students must demonstrate that they put forth an
+   effort toward accomplishing the goals of the exercise (regardless of whether or not they did so
+   correctly).</p>
+  <p>Instead of assigning grades for each exercise, you could assign one grade to all exercises
+   collectively, basing the grade on the percentage of exercises a student completes at the end of
+   the semester. Following this model, the grade weight for all exercises could be equivalent to the
+   grade weight of one major <xref
+    href="../assignments/assignment_descriptions_projects.dita#concept_qsg_ddr_dx">project</xref>.
+   For example, if major projects are each worth 15% of the final grade, then the collection of
+   exercises would also be worth 15% of the final grade. If a student were to complete 80% of
+   assigned exercises, they would receive an 80 as their exercises grade, which would be worth 15%
+   of their final grade.</p>
+ </conbody>
+</concept>

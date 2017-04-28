@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ev5_1dr_dx">
+ <title>Papers</title>
+ <shortdesc>Papers are short technical documents that students write to demonstrate their
+    understanding of a specific genre and its corresponding concepts.</shortdesc>
+ <conbody>
+  <p>Papers are graded <xref href="assignment_descriptions.dita#concept_rfl_wzp_rw"
+    >assignments</xref>, but they do not carry as much weight as the larger <xref
+    href="assignment_descriptions_projects.dita#concept_qsg_ddr_dx">projects</xref>. As such, the
+   grade weight for all papers could be equivalent to the grade weight of one major project, which
+   means allocating a smaller percentage to each paper. For example, if major projects are each
+   worth 15% of the final grade, then you could assign three papers that are collectively worth 15%
+   of the final grade (5% for each paper).</p>
+ </conbody>
+</concept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_am1_v2m_nx">
+  <title>Lesson 7: Recommendation Reports</title>
+  <shortdesc>Lesson 7 teaches recommendation reports and has project groups start brainstorming
+    ideas for their formal report group project.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_xkt_v2m_nx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_shy_tl2_sz">
+            <li>Employ concepts and structure of recommendation reports.</li>
+            <li>Differentiate recommendation reports from proposals.</li>
+            <li>Plan with project groups a report type (proposal or recommendation report) and a
+              topic for a formal report group project.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>Chapter 13:</b> Writing Recommendation Reports</stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>Recommendation reports:</b> Researching and writing recommendation reports,
+          including the structure of recommendation reports and how the recommendation report
+          differs from a proposal<p><b>Project brainstorming:</b> Discussions within project groups
+            to decide on a report type (proposal or recommendation report) and/or a topic for their
+              <xref href="../assignments/project_formal_report.dita#concept_fjg_crp_fx">formal
+              report group assignment</xref>.</p></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref
+            href="../exercises/exercise_letter_project_understanding_report.dita#concept_znd_3qs_bx"
+            >Letter of understanding for formal report (group)</xref><note>This is the same exercise
+            specified in <xref href="lesson_06_proposal_workshop2.dita#reference_x1j_y3l_nx">Lesson
+              6</xref>.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 4 lessons:</b> Final draft of group project to research and write a <xref
+            href="../assignments/project_formal_report.dita#concept_fjg_crp_fx">formal report</xref>
+          (proposal and/or a recommendation report)<note type="note">This is the same assignment
+            specified in <xref href="lesson_06_proposal_workshop2.dita#reference_x1j_y3l_nx">Lesson
+              6</xref>.</note></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

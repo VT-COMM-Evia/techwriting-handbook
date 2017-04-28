@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nwx_kxp_rw">
+ <title>Scripts for Audio and Video Presentations</title>
+ <shortdesc>A recommended method for ensuring students with disabilities can understand the contents
+  of lectures and other audio/video presentations is to provide the complete script used for
+  creating those presentations.</shortdesc>
+ <conbody>
+  <p>While planning a lecture or other content for an audio/video presentation, you should write a
+   script for all of the actions and words you intend to include in the presentation. Though
+   somewhat time consuming to write, such scripts offer important benefits. First, they benefit you
+   by reducing the time to record presentations and minimizing errors during recording. More
+   importantly, scripts provide a resource for students with hearing or vision disabilities to
+   understand the content of the audio/video presentation. Students with hearing disabilities will
+   be able to read the script to understand the content being spoken in the presentation. Students
+   with vision disabilities can use a screen reader to read the content to them, allowing them to
+   know what actions are happening in a video presentation.</p>
+ </conbody>
+</concept>

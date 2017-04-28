@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_z1t_swr_dx">
+ <title>Principles of Community</title>
+ <shortdesc>Students must understand that Virginia Tech has principles of community to which they
+  must adhere.</shortdesc>
+ <conbody>
+   <note type="important">This is required content for your syllabus. The included example suffices
+   for the content required in your syllabus.</note>
+  <p>The relevant information for the principles of community could be included as a subsection to
+   the <xref href="syllabus_policies_professionalism.dita#concept_xgg_fk4_1y">etiquette and
+    professionalism subsection</xref> (in the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y"
+    >policies section</xref>)  and includes:<ul id="ul_v22_bbl_sw">
+    <li>A statement that the principles of community exist</li>
+    <li>The website URL where students can read the principles of community</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Principles of Community</b></p>
+   <p>As practicing professionals and students, we will all adhere to the Virginia Tech Principles
+    of Community, which you can find at
+     <b>diversity.vt.edu/principles-of-community/principles.html</b>.</p>
+  </example>
+ </conbody>
+</concept>

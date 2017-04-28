@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tyv_21j_1y">
+ <title>Final Grade Calculation</title>
+ <shortdesc>The syllabus should explain how calculation of the final grade of all deliverables
+  works.</shortdesc>
+ <conbody>
+  <p>The relevant information for final grade calculation should be included as a subsection to the
+    <xref href="syllabus_grading.dita#concept_nxr_n43_1y">grading section</xref> and should
+    include:<ul id="ul_bcn_j1j_1y">
+    <li>Scoring formula and any numerical conversions</li>
+    <li>Policies on rounding of grades</li>
+    <li>Example of how final grade calculation works</li>
+   </ul></p>
+  <example><title>Example</title><p><b>Final Grade Calculation</b></p><p>Your final grade is the sum
+    of all point scores for all components, converted to a letter grade.</p><u>Scoring Methodology
+    and Policies</u><simpletable frame="all" relcolwidth="1.0* 2.96*" id="simpletable_ssn_s1j_1y">
+    <strow>
+     <stentry><b>Scoring Formula</b></stentry>
+     <stentry>
+      <p>Final Point Score* = Sum of All Component Scores</p>
+      <p>
+       <i>*The final score gets converted to a letter grade.</i></p>
+     </stentry>
+    </strow>
+    <strow>
+     <stentry><b>Score-to-Grade Conversion</b></stentry>
+     <stentry>
+      <p>The final score is converted to a letter grade, as follows:<simpletable frame="all"
+        relcolwidth="1.0* 1.0*" id="simpletable_e22_nbj_1y">
+        <sthead>
+         <stentry>Total Score</stentry>
+         <stentry>Grade</stentry>
+        </sthead>
+        <strow>
+         <stentry>93-100</stentry>
+         <stentry>A</stentry>
+        </strow>
+        <strow>
+         <stentry>90-92</stentry>
+         <stentry>A-</stentry>
+        </strow>
+        <strow>
+         <stentry>87-89</stentry>
+         <stentry>B+</stentry>
+        </strow>
+        <strow>
+         <stentry>83-86</stentry>
+         <stentry>B</stentry>
+        </strow>
+        <strow>
+         <stentry>80-82</stentry>
+         <stentry>B-</stentry>
+        </strow>
+        <strow>
+         <stentry>77-79</stentry>
+         <stentry>C+</stentry>
+        </strow>
+        <strow>
+         <stentry>73-76</stentry>
+         <stentry>C</stentry>
+        </strow>
+        <strow>
+         <stentry>70-72</stentry>
+         <stentry>C-</stentry>
+        </strow>
+        <strow>
+         <stentry>67-69</stentry>
+         <stentry>D+</stentry>
+        </strow>
+        <strow>
+         <stentry>63-66</stentry>
+         <stentry>D</stentry>
+        </strow>
+        <strow>
+         <stentry>60-62</stentry>
+         <stentry>D-</stentry>
+        </strow>
+        <strow>
+         <stentry>0-59</stentry>
+         <stentry>F</stentry>
+        </strow>
+       </simpletable></p>
+     </stentry>
+    </strow>
+    <strow>
+     <stentry><b>Rounding</b></stentry>
+     <stentry>
+      <p>Decimals for the final point score get rounded to the next whole number, where <b>.5</b>
+       and above rounds up and below <b>.5</b> rounds down. For example, if your final point score
+       were <b>89.4</b>, you would receive an <b>89</b> (<b>B+</b> letter grade). If your final
+       point score were <b>89.5</b>, you would receive a <b>90</b> (<b>A-</b> letter grade). I never
+       round a whole number final point score up, regardless of how close to the cusp it is. For
+       example, I would <b>not</b> round an <b>89</b> (<b>B+</b>) up to a <b>90</b> (<b>A-</b>).</p>
+     </stentry>
+    </strow>
+    <strow>
+     <stentry><b>Example</b></stentry>
+     <stentry>
+      <p>John earns the following point scores for each component:</p>
+      <ul id="ul_kfs_rbj_1y">
+       <li>Projects: <b>27.2</b></li>
+       <li>Papers: <b>12.7</b></li>
+       <li>Oral presentation: <b>8.2</b></li>
+       <li>Tests: <b>8.2</b></li>
+       <li>Quizzes: <b>11.3</b></li>
+       <li>Workshops: <b>6.7</b></li>
+       <li>Exercises and participation: <b>8.0</b></li>
+      </ul>
+      <p>The sum total of these point scores is <b>82.3</b>, which gets rounded <b>down</b> to a
+       whole number of <b>82</b>. This numeric grade corresponds to a <b>B-</b> letter grade, which
+       would be John’s final grade for the course.</p>
+     </stentry>
+    </strow>
+   </simpletable></example>
+ </conbody>
+</concept>

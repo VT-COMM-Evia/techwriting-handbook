@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_mkz_wwr_dx">
+ <title>Academic Honesty</title>
+ <shortdesc>Students must understand that the class requires that they abide by the Virginia Tech
+  honor code.</shortdesc>
+ <conbody>
+  <note type="important">This is required content for your syllabus. The included example suffices
+   for the content required in your syllabus.</note>
+  <p>The relevant information for the honor code could be included as a subsection to the <xref
+    href="syllabus_policies.dita#concept_f1m_nx3_1y">policies section</xref> and includes:<ul
+    id="ul_v22_bbl_sw">
+    <li>A statement that students must abide by the honor code</li>
+    <li>A reminder of the undergraduate honor code pledge they must abide by</li>
+    <li>The website URL where students can read more information about the honor code</li>
+   </ul></p>
+  <example><title>Example</title><p><b>Academic Honesty</b></p><p>The Undergraduate Honor Code
+    pledge that each member of the university community agrees to abide by states:</p><p><q>As a
+     Hokie, I will conduct myself with honor and integrity at all times. I will not lie, cheat, or
+     steal, nor will I accept the actions of those who do.</q></p><p>Students enrolled in this
+    course are responsible for abiding by the Honor Code. A student who has doubts about how the
+    Honor Code applies to any assignment is responsible for obtaining specific guidance from the
+    course instructor before submitting the assignment for evaluation. Ignorance of the rules does
+    not exclude any member of the University community from the requirements and expectations of the
+    Honor Code.</p> For additional information about the Honor Code, please visit:
+    <b>honorsystem.vt.edu</b>.</example>
+ </conbody>
+</concept>

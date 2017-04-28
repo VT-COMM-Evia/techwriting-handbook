@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ln3_t1l_lx">
+ <title>Exercises</title>
+ <shortdesc>Exercises are low-risk deliverables that allow students to learn the concepts and
+  practice the craft of technical writing.</shortdesc>
+ <conbody>
+  <p>You can post <xref href="../exercises/exercise_descriptions.dita#concept_afl_ncr_dx">exercise
+    descriptions</xref> through the assignments feature in <xref
+    href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref>. However, there are different
+   tools through which you can implement them. For example, you could have students work on
+   exercises through <xref href="../resources/google_docs.dita#concept_gmt_hdd_dx">Google
+    Docs</xref> and then work with them either asynchronously or in real-time to help them hone in
+   on specific areas for improvement. Such a process allows students to become more skillful before
+   working on graded <xref href="assignments.dita#concept_un5_1zp_rw">assignments</xref>.</p>
+ </conbody>
+</concept>

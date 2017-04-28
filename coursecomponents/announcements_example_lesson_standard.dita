@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dkb_mrk_by">
+ <title>Example Announcement: Standard Lesson</title>
+ <shortdesc>This example provides a starting template instructors can use for posting an
+  announcement for standard lessons after the semester is underway.</shortdesc>
+ <conbody>
+  <example>
+   <title>Lesson 4: Graphical Aids, Instructions, and Safety Information</title>
+   <p>In Lesson 4, we’re going to discuss using graphics. Graphics can include a wide range of items
+    such as pictures, charts, line art, and software screen shots. We even consider tables when we
+    think and plan for graphics. In this lesson, we will look at general concepts and best practices
+    for integrating graphics with documentation. We will also look at strategies and purposes of
+    illustrations—such as showing data in charts and helping a user work with software.</p>
+   <p>We will also continue exploring and writing more technical writing genres—this lesson we focus
+    on instructions and safety information. In addition to the usual lesson content, we will also
+    have some hands-on work with instructions. First, we have an exercise on writing instructions.
+    As you will see, the exercise sounds pretty simple—write instructions on how to tie a shoelace.
+    However, I think you will find when you start writing the steps, that it’s not as easy as it
+    sounds. Especially when you strive for no more than seven to nine concise steps (which is what
+    most procedures should be) and must assume the audience has never tied a shoelace before. So
+    give yourself time for this one, and be sure to follow the concepts in the lesson’s lecture
+    content (which includes the textbook content). As always, information for completing the
+    exercise is posted with the exercise under <b>Assignments</b>.</p>
+   <p>Our second graded paper of the course also focuses on instructions. The final version of this
+    paper is due Lesson 8, which means you must have your <b>workshop draft completed by Lesson
+     6</b>, when we have Workshop #2. Again, details are posted under <b>Assignments</b> for both
+    the paper and the workshop (with links in the lesson).</p>
+   <p>While we’re talking about final drafts of graded papers, let me also quickly remind you that
+    your Paper 1 final draft is due Lesson 5.</p>
+  </example>
+ </conbody>
+</concept>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ocn_kxk_nx">
+  <title>Lesson 5: Page Design and Layout</title>
+  <shortdesc>Lesson 5 teaches concepts of visual design, page layout, and Web design.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_h54_pxk_nx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_n4y_m32_sz">
+            <li>Analyze page design for technical documents.</li>
+            <li>Analyze visual design as it applies to content organization.</li>
+            <li>Design templates for technical documents based on good page design concepts.</li>
+            <li>Analyze concepts of Web design for online documents and content.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>
+          <p><b>Chapter 7:</b> Designing Documents and Web Sites</p>
+          <p>
+            <note>Because of the winter session's accelerated schedule, you should extend the
+              deadline for the chapter quiz assigned with this lesson until Lesson 6 (one calendar
+              week into the semester).</note>
+          </p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry>
+          <p><b>Visual design:</b> Concepts of good page design such as goals of good design,
+            proximity, alignment, repetition, and contrast</p>
+          <p><b>Content and visual design:</b> Applying visual design to content organization such
+            as chunking, queuing, filtering, and accessing aids</p>
+          <p><b>Page layout:</b> Applying white space, typography, columns, and alignment to the
+            layout/template of a document</p>
+          <p><b>Web design:</b> Basic concepts of web design for online documents and content</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

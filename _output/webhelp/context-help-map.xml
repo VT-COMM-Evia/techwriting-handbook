@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_hg5_nhz_gw" path="about/about_handbook.html"/>
+   <appContext helpID="concept_k1b_qxq_dx" path="about/about_content_overview.html"/>
+   <appContext helpID="reference_m1y_rkw_rw" path="about/contacts_roles.html"/>
+   <appContext helpID="concept_ldw_hrk_sw" path="about/about_definitions.html"/>
+   <appContext helpID="concept_bz3_n1p_rw" path="about/about_course.html"/>
+   <appContext helpID="concept_x5p_lbp_rw"
+               path="about/about_course_catalog_descr.html"/>
+   <appContext helpID="concept_pfj_3cp_rw" path="about/about_course_reg_descr.html"/>
+   <appContext helpID="concept_mnt_ndp_rw" path="about/about_course_objectives.html"/>
+   <appContext helpID="concept_fyj_kkp_rw"
+               path="cornerstones/cornerstones_curriculum.html"/>
+   <appContext helpID="concept_nlh_zfz_gw"
+               path="cornerstones/cornerstones_gen_writing_mech.html"/>
+   <appContext helpID="concept_bk3_mqp_rw"
+               path="cornerstones/cornerstones_concepts.html"/>
+   <appContext helpID="concept_fcn_brp_rw"
+               path="cornerstones/cornerstones_creating_docs.html"/>
+   <appContext helpID="concept_qjg_rxp_rw" path="resources/tools_resources.html"/>
+   <appContext helpID="concept_oqy_5xp_rw" path="resources/lms.html"/>
+   <appContext helpID="concept_vnz_jwc_dx" path="resources/elearning_dev_program.html"/>
+   <appContext helpID="concept_jtq_yxp_rw" path="resources/google_drive_apps.html"/>
+   <appContext helpID="concept_hqg_ddd_dx" path="resources/google_drive.html"/>
+   <appContext helpID="concept_gmt_hdd_dx" path="resources/google_docs.html"/>
+   <appContext helpID="concept_l2l_pdd_dx" path="resources/google_slides.html"/>
+   <appContext helpID="concept_tmn_1yp_rw" path="resources/chat.html"/>
+   <appContext helpID="concept_sk2_cjq_dx" path="resources/chat_text.html"/>
+   <appContext helpID="concept_zky_cjq_dx" path="resources/chat_voice.html"/>
+   <appContext helpID="concept_yfr_djq_dx" path="resources/chat_video.html"/>
+   <appContext helpID="concept_ulm_ywp_rw"
+               path="disabilities/accessibilty_disabilities.html"/>
+   <appContext helpID="concept_wrz_bxp_rw" path="disabilities/screen_readers.html"/>
+   <appContext helpID="concept_mmx_fxp_rw" path="disabilities/captions.html"/>
+   <appContext helpID="concept_nwx_kxp_rw" path="disabilities/scripts.html"/>
+   <appContext helpID="concept_ycl_nxp_rw" path="disabilities/other_disabilities.html"/>
+   <appContext helpID="concept_j2p_2yp_rw"
+               path="coursecomponents/course_components.html"/>
+   <appContext helpID="concept_g4h_hyp_rw" path="coursecomponents/lesson_modules.html"/>
+   <appContext helpID="concept_ic3_kyp_rw" path="coursecomponents/books_refs.html"/>
+   <appContext helpID="concept_swp_bnq_dx"
+               path="coursecomponents/books_refs_textbooks.html"/>
+   <appContext helpID="concept_lq1_dnq_dx"
+               path="coursecomponents/books_refs_writing_refs.html"/>
+   <appContext helpID="concept_kr3_npw_rw" path="coursecomponents/calendar.html"/>
+   <appContext helpID="concept_kjw_nyp_rw" path="coursecomponents/announcements.html"/>
+   <appContext helpID="concept_kfx_34k_by"
+               path="coursecomponents/announcements_example_initial.html"/>
+   <appContext helpID="concept_z4s_mpk_by"
+               path="coursecomponents/announcements_example_lesson_first.html"/>
+   <appContext helpID="concept_dkb_mrk_by"
+               path="coursecomponents/announcements_example_lesson_standard.html"/>
+   <appContext helpID="concept_ugm_5yp_rw" path="coursecomponents/tests_quizzes.html"/>
+   <appContext helpID="concept_vqp_xyp_rw" path="coursecomponents/lectures.html"/>
+   <appContext helpID="concept_ln3_t1l_lx" path="coursecomponents/exercises.html"/>
+   <appContext helpID="concept_un5_1zp_rw" path="coursecomponents/assignments.html"/>
+   <appContext helpID="concept_uvr_szp_rw" path="coursecomponents/discussions.html"/>
+   <appContext helpID="concept_wk5_lkc_bx" path="lessons/lesson_descriptions.html"/>
+   <appContext helpID="reference_b5f_xg3_kx"
+               path="lessons/lesson_01_intro_corr_grammar.html"/>
+   <appContext helpID="reference_pgw_gdj_kx"
+               path="lessons/lesson_02_collab_descr_edit.html"/>
+   <appContext helpID="reference_bjb_ytk_kx"
+               path="lessons/lesson_03_ethics_style_workshop1.html"/>
+   <appContext helpID="reference_j4f_y2r_kx"
+               path="lessons/lesson_04_graphics_instr_safety.html"/>
+   <appContext helpID="reference_ocn_kxk_nx"
+               path="lessons/lesson_05_design_layout.html"/>
+   <appContext helpID="reference_x1j_y3l_nx"
+               path="lessons/lesson_06_proposal_workshop2.html"/>
+   <appContext helpID="reference_am1_v2m_nx" path="lessons/lesson_07_rec_rpt.html"/>
+   <appContext helpID="reference_kdq_y1h_1y"
+               path="lessons/lesson_08_aud_purp_research.html"/>
+   <appContext helpID="reference_tdv_5hh_1y"
+               path="lessons/lesson_09_online_content.html"/>
+   <appContext helpID="reference_rvl_jmh_1y" path="lessons/lesson_10_job_app.html"/>
+   <appContext helpID="reference_qnq_m4h_1y" path="lessons/lesson_11_white_paper.html"/>
+   <appContext helpID="reference_yc4_wqh_1y"
+               path="lessons/lesson_12_oral_pres_localization.html"/>
+   <appContext helpID="reference_yt1_35h_1y" path="lessons/lesson_13_workshop3.html"/>
+   <appContext helpID="reference_jyz_qvh_1y" path="lessons/lesson_14_inf_reports.html"/>
+   <appContext helpID="reference_j24_vwh_1y" path="lessons/lesson_15_wrapup.html"/>
+   <appContext helpID="concept_afl_ncr_dx" path="exercises/exercise_descriptions.html"/>
+   <appContext helpID="concept_mrc_lwd_bx" path="exercises/exercise_introduction.html"/>
+   <appContext helpID="concept_avw_frr_bx" path="exercises/exercise_claim_letter.html"/>
+   <appContext helpID="concept_vvb_b5r_bx"
+               path="exercises/exercise_extended_definition.html"/>
+   <appContext helpID="concept_f5y_mcs_bx" path="exercises/exercise_grammar.html"/>
+   <appContext helpID="concept_sn4_42s_bx" path="exercises/exercise_instructions.html"/>
+   <appContext helpID="concept_upf_vgs_bx"
+               path="exercises/exercise_proposal_summary.html"/>
+   <appContext helpID="concept_znd_3qs_bx"
+               path="exercises/exercise_letter_project_understanding_report.html"/>
+   <appContext helpID="concept_ry5_3fz_bx"
+               path="exercises/exercise_audience_assessment.html"/>
+   <appContext helpID="concept_gvm_khz_bx"
+               path="exercises/exercise_research_sources.html"/>
+   <appContext helpID="concept_n2v_4jz_bx"
+               path="exercises/exercise_letter_project_understanding_white_paper.html"/>
+   <appContext helpID="concept_rfl_wzp_rw"
+               path="assignments/assignment_descriptions.html"/>
+   <appContext helpID="concept_ev5_1dr_dx"
+               path="assignments/assignment_descriptions_papers.html"/>
+   <appContext helpID="concept_ffq_m3t_2x"
+               path="assignments/paper_description_doc.html"/>
+   <appContext helpID="concept_wym_pc1_fx" path="assignments/paper_instructions.html"/>
+   <appContext helpID="concept_oqk_pgb_fx" path="assignments/paper_cover_letter.html"/>
+   <appContext helpID="concept_qsg_ddr_dx"
+               path="assignments/assignment_descriptions_projects.html"/>
+   <appContext helpID="concept_fjg_crp_fx"
+               path="assignments/project_formal_report.html"/>
+   <appContext helpID="concept_lw3_ddq_fx" path="assignments/project_white_paper.html"/>
+   <appContext helpID="concept_db4_h2r_dx"
+               path="assignments/assignment_descriptions_workshops.html"/>
+   <appContext helpID="concept_wl3_llq_fx"
+               path="assignments/workshop_description_doc.html"/>
+   <appContext helpID="concept_mcp_tlq_fx"
+               path="assignments/workshop_instructions.html"/>
+   <appContext helpID="concept_mx4_ylq_fx"
+               path="assignments/workshop_white_paper.html"/>
+   <appContext helpID="concept_wpk_m2r_dx"
+               path="assignments/assignment_descriptions_presentations.html"/>
+   <appContext helpID="concept_vdv_zkq_fx"
+               path="assignments/presentation_white_paper_topic.html"/>
+   <appContext helpID="concept_ar5_n1q_rw" path="schedules/course_schedules.html"/>
+   <appContext helpID="concept_ilt_mjk_sw" path="schedules/regular_semester.html"/>
+   <appContext helpID="concept_r31_pjk_sw" path="schedules/summer_session.html"/>
+   <appContext helpID="concept_u5b_sjk_sw" path="schedules/winter_session.html"/>
+   <appContext helpID="concept_xx2_llk_sw" path="schedules/holidays.html"/>
+   <appContext helpID="concept_klm_mpk_sw" path="schedules/lesson_posting_times.html"/>
+   <appContext helpID="concept_umd_y1q_rw" path="quickrefs/quick_refs.html"/>
+   <appContext helpID="reference_x4s_nmw_rw"
+               path="quickrefs/quickref_reg_semester.html"/>
+   <appContext helpID="reference_blj_vsx_rw"
+               path="quickrefs/quickref_summer_session.html"/>
+   <appContext helpID="reference_bch_xsx_rw"
+               path="quickrefs/quickref_winter_session.dita.html"/>
+   <appContext helpID="concept_jvk_ssr_dx" path="syllabus/syllabus_components.html"/>
+   <appContext helpID="concept_fbn_p1l_sw" path="syllabus/syllabus_definition.html"/>
+   <appContext helpID="concept_edc_dcl_sw" path="syllabus/syllabus_instructor.html"/>
+   <appContext helpID="concept_dgr_vct_2x"
+               path="syllabus/syllabus_textbook_resources.html"/>
+   <appContext helpID="concept_yqk_dbs_dx" path="syllabus/syllabus_overview.html"/>
+   <appContext helpID="concept_rdd_dds_dx"
+               path="syllabus/syllabus_overview_accelerated.html"/>
+   <appContext helpID="concept_h5q_2bs_dx" path="syllabus/syllabus_objectives.html"/>
+   <appContext helpID="concept_e3k_vmb_hx" path="syllabus/syllabus_spot.html"/>
+   <appContext helpID="concept_nxr_n43_1y" path="syllabus/syllabus_grading.html"/>
+   <appContext helpID="concept_eqj_pr3_1y"
+               path="syllabus/syllabus_grading_qualitative.html"/>
+   <appContext helpID="concept_dny_s53_1y"
+               path="syllabus/syllabus_grading_components.html"/>
+   <appContext helpID="concept_tyv_21j_1y" path="syllabus/syllabus_grading_final.html"/>
+   <appContext helpID="concept_rk3_g4b_hx" path="syllabus/syllabus_deadlines.html"/>
+   <appContext helpID="concept_f1m_nx3_1y" path="syllabus/syllabus_policies.html"/>
+   <appContext helpID="concept_j1c_4cj_1y"
+               path="syllabus/syllabus_policies_syllabus_change.html"/>
+   <appContext helpID="concept_elp_vj4_1y"
+               path="syllabus/syllabus_policies_attendance.html"/>
+   <appContext helpID="concept_xgg_fk4_1y"
+               path="syllabus/syllabus_policies_professionalism.html"/>
+   <appContext helpID="concept_z1t_swr_dx"
+               path="syllabus/syllabus_principles_community.html"/>
+   <appContext helpID="concept_vx4_qk4_1y"
+               path="syllabus/syllabus_policies_assignments.html"/>
+   <appContext helpID="concept_h2b_vk4_1y"
+               path="syllabus/syllabus_policies_assignments_method.html"/>
+   <appContext helpID="concept_png_yk4_1y"
+               path="syllabus/syllabus_policies_assignments_deadlines.html"/>
+   <appContext helpID="concept_w1x_cx3_1y"
+               path="syllabus/syllabus_policies_grade_feedback.html"/>
+   <appContext helpID="concept_xbr_5wr_dx" path="syllabus/syllabus_use_of_work.html"/>
+   <appContext helpID="concept_mkz_wwr_dx"
+               path="syllabus/syllabus_academic_honesty.html"/>
+   <appContext helpID="concept_v11_bm4_1y"
+               path="syllabus/syllabus_policies_online_classes.html"/>
+   <appContext helpID="concept_z4x_ywr_dx"
+               path="syllabus/syllabus_disability_accommodations.html"/>
+   <appContext helpID="concept_scv_hm4_1y" path="syllabus/syllabus_schedule.html"/>
+   <appContext helpID="concept_lgl_mm4_1y"
+               path="syllabus/syllabus_schedule_lesson.html"/>
+   <appContext helpID="concept_qty_nn4_1y"
+               path="syllabus/example_syllabus_overview.html"/>
+   <appContext helpID="concept_pmt_gsr_dx" path="syllabus/example_syllabus.html"/>
+   <appContext helpID="concept_pw1_g1q_rw"
+               path="checklists/instructor_checklists.html"/>
+   <appContext helpID="reference_vgs_mns_bx"
+               path="checklists/checklist_class_setup.html"/>
+   <appContext helpID="reference_w4z_fkk_by"
+               path="checklists/checklist_class_completion.html"/>
+</map>

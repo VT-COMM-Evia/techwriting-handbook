@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_uvr_szp_rw">
+ <title>Discussions</title>
+ <shortdesc>Discussions provide a forum through which students can ask and answer questions, share
+  information, and express thoughts and opinions.</shortdesc>
+ <conbody>
+  <p><xref href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref> includes a discussions
+   feature where students can hold conversations. It's up to you to determine how much you want to
+   integrate discussions in your class, but remember that this feature in a way mimics conversations
+   you would otherwise have in a face-to-face classroom. So it's a good way to have students discuss
+   their thoughts on example documents or share other information with the class. Some instructors
+   make participation in discussions a required component for final grades.</p>
+ </conbody>
+</concept>

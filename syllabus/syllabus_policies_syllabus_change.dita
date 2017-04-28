@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_j1c_4cj_1y">
+ <title>Changes to the Syllabus</title>
+ <shortdesc>The syllabus should explain policies for updating the syllabus during the
+    semester.</shortdesc>
+ <conbody>
+  <p>The relevant information for policies on changing the syllabus could be included as a
+      subsection to the <xref href="syllabus_policies.dita#concept_f1m_nx3_1y">policies
+        section</xref> and should include:<ul id="ul_g4l_ycj_1y">
+        <li>A statement that you have the right to update the syllabus as needed</li>
+      </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Changes to this Syllabus</b></p>
+   <p>I reserve the right to make modifications to any part of this syllabus throughout the course.
+    When a change to the syllabus is necessary, I will post the updated syllabus and notify all
+    students of the change as soon as possible. Typically, the schedule is the only section that
+    might require modification.</p>
+  </example>
+ </conbody>
+</concept>

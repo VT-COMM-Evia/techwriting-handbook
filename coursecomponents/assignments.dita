@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_un5_1zp_rw">
+ <title>Assignments</title>
+ <shortdesc>This handbook refers to papers, projects, and workshops that students submit for a grade
+  as assignments .</shortdesc>
+ <conbody>
+  <p>You can post <xref href="../assignments/assignment_descriptions.dita#concept_rfl_wzp_rw"
+    >assignment descriptions</xref> through the assignments feature in <xref
+    href="../resources/lms.dita#concept_oqy_5xp_rw">Canvas</xref>. As with <xref
+    href="exercises.dita#concept_ln3_t1l_lx">exercises</xref>, there are different tools through
+   which you can implement them. For example, you could interact with students through <xref
+    href="../resources/google_docs.dita#concept_gmt_hdd_dx">Google Docs</xref> to help them improve
+   their work. However, keep in mind that assignments should measure a student's success with the
+   corresponding material and thus be performed independently by the student.</p>
+ </conbody>
+</concept>

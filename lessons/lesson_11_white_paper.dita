@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_qnq_m4h_1y">
+  <title>Lesson 11: White Papers</title>
+  <shortdesc>Lesson 7 teaches concepts and strategies for writing white papers.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_sxx_q4h_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_y1y_tm2_sz">
+            <li>Employ concepts and structure of white papers.</li>
+            <li>Use educational information and professional design to make white papers
+              persuasive.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry><b>White paper articles:</b> Material you believe to be appropriate for learning
+          about white papers such as documents about white papers and example white papers<note
+            type="tip">Purdue OWL has useful starter documents on white papers at <xref
+              href="https://owl.english.purdue.edu/owl/resource/546/1/" format="html"
+              scope="external"
+          >https://owl.english.purdue.edu/owl/resource/546/1/</xref>.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b>White papers:</b> Concepts and strategies for writing white papers such as
+          making them informative, persuasive, and professionally designed</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref
+            href="../exercises/exercise_letter_project_understanding_white_paper.dita#concept_n2v_4jz_bx"
+            >Letter of understanding for white paper</xref></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 2 lessons:</b>
+          <xref href="../assignments/workshop_white_paper.dita#concept_mx4_ylq_fx">Workshop</xref>
+          draft of <xref href="../assignments/project_white_paper.dita#concept_lw3_ddq_fx">white
+            paper</xref><p><b>Due in 3 lessons:</b> Group feedback to writers from white paper
+            workshop</p><p><b>Due in 4 lessons:</b> Final draft of white paper</p></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

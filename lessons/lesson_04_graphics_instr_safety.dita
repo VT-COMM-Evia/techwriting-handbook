@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_j4f_y2r_kx">
+  <title>Lesson 4: Graphics, Instructions, and Safety Information</title>
+  <shortdesc>Lesson 4 teaches graphical aids (including tables and figures), instructions, and
+    safety information.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_h5r_ffr_kx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_ow5_g32_sz">
+            <li>Recognize types of tables and figures and their use as they apply to corresponding
+              technical document narratives.</li>
+            <li>Employ concepts and structure of written procedures.</li>
+            <li>Define warnings, cautions, and notes as well as their use in technical
+              documents.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>
+          <p><b>Chapter 8:</b> Creating Graphics</p>
+          <p><b>Chapter 14:</b> Writing Definitions and Descriptions (pp. 375–386)<note>Because of
+              the winter session's accelerated schedule, you should extend the deadline for the
+              chapter quizzes assigned with this lesson until Lesson 6 (one calendar week into the
+              semester).</note></p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry>
+          <p><b>Graphical aids:</b> Definitions and examples of tables and figures (including charts
+            and illustrations) and best practices for integrating them with a technical document
+            narrative</p>
+          <p><b>Instructions:</b> Concepts and structure of procedures</p>
+          <p><b>Safety information:</b> Definitions and usage of warnings, cautions, and notes</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry><b>Due next lesson:</b>
+          <xref href="../exercises/exercise_instructions.dita#concept_sn4_42s_bx"
+            >Instructions</xref><note>Because of the winter session's accelerated schedule, you
+            should extend this deadline by one lesson during the winter session, giving students one
+            additional day to finish the work.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 2 lessons:</b>
+          <xref href="../assignments/workshop_instructions.dita#concept_mcp_tlq_fx">Workshop</xref>
+          draft of <xref href="../assignments/paper_instructions.dita#concept_wym_pc1_fx"
+            >instruction set</xref><p><b>Due in 3 lessons:</b> Group feedback to writers from
+            instruction set workshop</p><p><b>Due in 4 lessons:</b> Final draft of instruction
+            set</p><p>
+            <note>Because of the winter session's accelerated schedule, you should extend these
+              deadlines one lesson during the winter session, giving students one additional day to
+              work on their papers and edits.</note>
+          </p></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

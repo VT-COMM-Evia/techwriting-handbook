@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_lgl_mm4_1y">
+ <title>Lesson Details</title>
+ <shortdesc>The syllabus should provide the dates and topics for each lesson of the
+    semester.</shortdesc>
+ <conbody>
+  <p>Under the <xref href="syllabus_schedule.dita#concept_scv_hm4_1y">schedule section</xref>, you
+      should have <b>one subsection for each</b> of the lessons you will post in the course
+      (typically 15 lessons). The information for each of these sections might include:<ul
+        id="ul_kcp_qbp_1y">
+        <li>The date the lesson will be posted</li>
+        <li>Readings and/or tests/quizzes that must be completed prior to the lesson</li>
+        <li>Assignments that must be completed by the lesson</li>
+        <li>Topics that will be covered as part of the lesson</li>
+      </ul></p>
+    <example>
+      <title>Example</title>
+      <p><b>Lesson 3: Tuesday 2/2/16</b><simpletable frame="all" relcolwidth="1.0* 4.5*"
+          id="simpletable_krc_hcp_1y">
+          <strow>
+            <stentry><b>Due</b></stentry>
+            <stentry><p><b>Chapter 2:</b> Understanding Ethical and Legal
+                  Considerations</p><p><b>Chapter 6:</b> Writing for Your Readers</p><p><b>Appendix
+                  A:</b> Documenting Your Sources (no quiz)</p><p><b>Paper 1 (workshop draft):</b>
+                Description document</p>
+              <b>Last chance:</b> All readings and quizzes to date</stentry>
+          </strow>
+          <strow>
+            <stentry><b>Topics</b></stentry>
+            <stentry><p><b>Workshop:</b> Description document (Paper 1)</p><p>Ethical and legal
+                considerations</p><p>Reusing content and illustrations</p><p>Writing style</p>
+              Finish grammar and punctuation review</stentry>
+          </strow>
+        </simpletable></p>
+    </example>
+ </conbody>
+</concept>

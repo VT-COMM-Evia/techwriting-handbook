@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_b5f_xg3_kx">
+  <title>Lesson 1: Introduction, Correspondence, and Grammar</title>
+  <shortdesc>Lesson 1 introduces students to the course, introduces basic concepts of technical
+    writing, and teaches correspondence in professional environments.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_fc1_fq3_kx">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_b1f_1g2_sz">
+            <li>Recognize what the course is about, how it is structured, and what contents are
+              contained in its syllabus.</li>
+            <li>Apply concepts of rhetorical situation.</li>
+            <li>Discuss technical writing process and related genres.</li>
+            <li>Examine the importance and shortcomings of writing skills of employees in the
+              workplace.</li>
+            <li>Employ concepts and structure of business letters, memos, and email correspondence
+              in professional settings.</li>
+            <li>Review grammar and punctuation as well as related self-study resources.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>
+          <p><b>Chapter 1:</b> Introduction to Technical Communication</p>
+          <p><b>Chapter 9:</b> Writing Correspondence<note>Because some students may add to the
+              course late or might otherwise be delayed in obtaining the textbook, you should extend
+              the deadlines for the chapter quizzes assigned with this lesson. For <xref
+                href="../schedules/regular_semester.dita#concept_ilt_mjk_sw">regular
+                semesters</xref> and <xref
+                href="../schedules/summer_session.dita#concept_r31_pjk_sw">summer sessions</xref>,
+              you should consider a deadline of Lesson 3 (one to two calendar weeks into the
+              semester). For the <xref href="../schedules/winter_session.dita#concept_u5b_sjk_sw"
+                >winter session</xref>, you should consider a deadline of Lesson 6 (one calendar
+              week into the semester).</note></p>
+          <p><b>Appendix B:</b> Editing and Proofreading Your Documents (no quiz since this appendix
+            covers grammar and punctuation, for which there is an exam later in the semester)</p>
+          <p><b>Website articles:</b> Latest research and articles on the Internet that focus on
+            writing in the workplace (no quiz since this is preliminary reading to help students
+            understand the importance of workplace writing for non-writers)</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry>
+          <p><b>Course introduction:</b> An explanation of what the course is about, how the course
+            is structured, and primary components of the syllabus</p>
+          <p><b>Introduction to technical writing:</b> Introductory concepts of technical writing
+            concepts including rhetorical situation, technical writing process, and technical
+            writing genres</p>
+          <p><b>Writing in the workplace:</b> Information on the importance and shortcomings of the
+            writing skills of employees in the workplace</p>
+          <p><b>Correspondence:</b> Concepts and structure of business letters, memos, and email
+            correspondence in professional settings</p>
+          <p><b>Start grammar and punctuation review:</b> Initial review of grammar and punctuation
+            and introduction to self-study resources</p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>
+          <p><b>Due next lesson:</b>
+            <xref href="../exercises/exercise_introduction.dita#concept_mrc_lwd_bx">Memo with
+              self-introduction</xref></p>
+          <p><b>Due next lesson:</b>
+            <xref href="../exercises/exercise_claim_letter.dita#concept_avw_frr_bx">Business “claim”
+              letter</xref><note>Because of the winter session's accelerated schedule, you should
+              extend the deadlines for these first two exercises by one lesson during the winter
+              session, giving students one additional day to finish the work.</note></p>
+          <p><b>Due in 2-3 lessons:</b>
+            <xref href="../exercises/exercise_grammar.dita#concept_f5y_mcs_bx">Grammar and
+              punctuation worksheet</xref></p>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry><b>Due in 3-4 lessons:</b>
+          <xref href="../coursecomponents/tests_quizzes.dita#concept_ugm_5yp_rw">Grammar
+            test(s)</xref></stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_yt1_35h_1y">
+  <title>Lesson 13: White Paper Workshop</title>
+  <shortdesc>Lesson 13 has students work with their assigned team on the white paper
+    workshop.</shortdesc>
+  <refbody>
+    <simpletable frame="all" relcolwidth="1.0* 2.23*" id="simpletable_mc3_l5h_1y">
+      <sthead>
+        <stentry>Components</stentry>
+        <stentry>Deliverables</stentry>
+      </sthead>
+      <strow>
+        <stentry>Lesson Objectives</stentry>
+        <stentry>
+          <ul id="ul_ic1_442_sz">
+            <li>Analyze written work from assigned teammates' white paper assignments.</li>
+          </ul>
+        </stentry>
+      </strow>
+      <strow>
+        <stentry>Reading/Quizzes</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Topics</stentry>
+        <stentry><b><xref href="../assignments/workshop_white_paper.dita#concept_mx4_ylq_fx">White
+              paper workshop</xref>:</b> Students review and edit their assigned teammates' <xref
+            href="../assignments/project_white_paper.dita#concept_lw3_ddq_fx">white paper
+            projects</xref> (requires that you first assign students into workshop groups)<note
+            type="tip">Because of the length of the white papers and corresponding effort required
+            for students to review them, this workshop is delivered best with no other lectures or
+            topics for the lesson.</note></stentry>
+      </strow>
+      <strow>
+        <stentry>Related Exercises</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+      <strow>
+        <stentry>Related Assignments</stentry>
+        <stentry>N/A</stentry>
+      </strow>
+    </simpletable>
+  </refbody>
+</reference>

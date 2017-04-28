@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_dny_s53_1y">
+ <title>Component Grade Calculations</title>
+ <shortdesc>The syllabus should explain grading and policies for each deliverable that students must
+  submit.</shortdesc>
+ <conbody>
+  <p>Under the <xref href="syllabus_grading.dita#concept_nxr_n43_1y">grading section</xref>, you
+   should have <b>one subsection for each</b> of the graded deliverables. The information for each
+   of these sections might include:<ul id="ul_q1p_hv3_1y">
+    <li>Description of the corresponding deliverable(s)</li>
+    <li>Explanation of the grading formula used to calculate the grade</li>
+    <li>Grade weight against the final grade</li>
+    <li>Explanation of grading criteria and due dates</li>
+    <li>Any policies on late submissions</li>
+    <li>Example of how grading works</li>
+   </ul></p>
+  <example>
+   <title>Example</title>
+   <p><b>Projects</b></p>
+   <p>Projects are the most extensive assignments, requiring you to work thoroughly through the
+    entire technical writing process. There are <b>two</b> projects:</p>
+   <ul id="ul_i2j_1w3_1y">
+    <li>A formal report (group project), which is a <b>proposal</b> or <b>recommendation report</b>
+     (your choice) on a subject your group selects</li>
+    <li>A <b>white paper</b> on a subject you know well</li>
+   </ul>
+   <p> I will provide you with specific information for completing these projects in Canvas.</p>
+   <p><u>Scoring Methodology and Policies</u></p>
+   <p>
+    <simpletable frame="all" relcolwidth="1.0* 2.96*" id="simpletable_yl1_vv3_1y">
+     <strow>
+      <stentry><b>Scoring Formula</b></stentry>
+      <stentry>Point Score = (Numeric Grade of Project) X (Project Grade Weight)</stentry>
+     </strow>
+     <strow>
+      <stentry><b>Grade Weight</b></stentry>
+      <stentry><b>30%</b> total (<b>15%</b> for each project)</stentry>
+     </strow>
+     <strow>
+      <stentry><b>Grading Criteria</b></stentry>
+      <stentry>Grading is based on the total overall reading experience of the project, considering
+       the factors discussed in the <xref
+        href="syllabus_policies_grade_feedback.dita#concept_w1x_cx3_1y">Grading and Feedback</xref>
+       section.</stentry>
+     </strow>
+     <strow>
+      <stentry><b>Due Dates</b></stentry>
+      <stentry>Due dates for projects are specified in the <xref
+        href="syllabus_deadlines.dita#concept_rk3_g4b_hx">Writing Assignment Deadlines</xref>
+       section and are posted with the corresponding project assignment in Canvas. You will upload
+       projects to the corresponding Canvas assignment, which is programmed to stop allowing uploads
+       at the exact deadline.</stentry>
+     </strow>
+     <strow>
+      <stentry><b>Late Submissions</b></stentry>
+      <stentry>Late submissions are not accepted. You must submit each project by its deadline to
+       receive a passing grade for that project. Any late project (even if only by a minute)
+       automatically receives a <b>0</b> for a grade.</stentry>
+     </strow>
+     <strow>
+      <stentry><b>Grading Example</b></stentry>
+      <stentry>John’s group earns an <b>A-</b> on the formal report. An <b>A-</b> is equivalent to
+        <b>92</b>, and the formal report project accounts for <b>15%</b> of the final grade.
+       Therefore, John’s point score for this project is <b>13.8</b> (92 grade x .15 weight). Then
+       John earns a <b>B+</b> on the white paper. A <b>B+</b> is equivalent to <b>89</b>, and the
+       white paper project accounts for <b>15%</b> of the final grade. Therefore, John’s point score
+       for the final project is <b>13.4</b> (89 grade x .15 weight, rounded). The total point score
+       for projects is <b>27.2</b> (the sum of both point scores). This score is the number that
+       gets added to the total point score for John’s final grade.</stentry>
+     </strow>
+    </simpletable>
+   </p>
+  </example>
+ </conbody>
+</concept>

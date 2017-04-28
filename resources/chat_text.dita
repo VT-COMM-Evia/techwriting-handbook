@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sk2_cjq_dx">
+ <title>Text Chat</title>
+ <shortdesc>A texting app such as Skype allows you to communicate with students by sending text
+  messages to one another real-time.</shortdesc>
+ <conbody>
+  <p>A texting app allows you to start a text-based conversation with a student and then continue
+   the conversation at a later time if necessary, unlike <xref
+    href="chat_voice.dita#concept_zky_cjq_dx">voice</xref> or <xref
+    href="chat_video.dita#concept_yfr_djq_dx">video</xref> chats, which typically require a
+   synchronous conversation throughout the entire meeting. Texting apps typically allow you to
+   archive text conversations so that you can refer to it at a later time. <xref
+    href="https://www.skype.com" format="html" scope="external">Skype</xref> is a useful texting app
+   because it also facilitates voice and video chat should you decide to switch to that mode of
+   conversation. Skype also allows you to interact with multiple people simultaneously if you need
+   to meet with workgroups.</p>
+ </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_r31_pjk_sw">
+ <title>Summer Session</title>
+ <shortdesc>There are two summer sessions, each lasting approximately six weeks.</shortdesc>
+ <conbody>
+  <p>Summer sessions require lessons to be posted multiple times per week. This means using a
+   predictable pattern for the student, such as every Tuesday and Thursday or every Monday,
+   Wednesday, and Friday.</p>
+  <p>The Monday, Wednesday, and Friday model works well for summer sessions because it allows for
+      skipping a lesson on summer holidays such as Memorial Day without risking falling behind in
+      the class.</p>
+  <p>Refer to the <xref href="../quickrefs/quickref_summer_session.dita#reference_blj_vsx_rw">summer
+    session quick reference</xref> to see a recommended model for rolling out lessons during a
+   summer session.</p>
+ </conbody>
+</concept>
