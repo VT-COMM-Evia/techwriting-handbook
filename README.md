@@ -1,4 +1,5 @@
 # Technical Writing (Virtual Classroom) Instructor Handbook
+## This repository is no longer maintained and just shared as public because we are nice people
 
 Handbook for instructors (with oddly-shaped hands) of ENGL 3764: *Technical Writing* at Virginia Tech.
 
